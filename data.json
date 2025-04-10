@@ -1,0 +1,5621 @@
+[
+  {
+    "id": 9363,
+    "website_name": "ChatGPT",
+    "website": "https://chatgpt.com",
+    "website_url": "chatgpt.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4548614056,
+    "handle": "chatgpt-com"
+  },
+  {
+    "id": 1498,
+    "website_name": "OpenAI",
+    "website": "https://openai.com",
+    "website_url": "openai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 559300408,
+    "handle": "openai"
+  },
+  {
+    "id": 9420,
+    "website_name": "Adobe",
+    "website": "https://adobe.com",
+    "website_url": "adobe.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 341439984,
+    "handle": "adobe-com"
+  },
+  {
+    "id": 27,
+    "website_name": "Notion",
+    "website": "https://www.notion.so",
+    "website_url": "www.notion.so",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 159947632,
+    "handle": "notion-ai"
+  },
+  {
+    "id": 9458,
+    "website_name": "Salesforce Einstein",
+    "website": "https://force.com",
+    "website_url": "force.com",
+    "payment_platform": [
+      "stripe",
+      "paypal",
+      "paddle"
+    ],
+    "month_visited_count": 135527375,
+    "handle": "force-com"
+  },
+  {
+    "id": 163,
+    "website_name": "Perplexity AI",
+    "website": "https://www.perplexity.ai",
+    "website_url": "www.perplexity.ai",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 123921376,
+    "handle": "perplexity-ai"
+  },
+  {
+    "id": 5546,
+    "website_name": "Anthropic",
+    "website": "https://claude.ai",
+    "website_url": "claude.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 101105053,
+    "handle": "claude-2"
+  },
+  {
+    "id": 9269,
+    "website_name": "Shop: Your AI-Powered Shopping Assistant",
+    "website": "https://shop.app",
+    "website_url": "shop.app",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 126612424,
+    "handle": "shop-app"
+  },
+  {
+    "id": 8925,
+    "website_name": "Salesforce Einstein 1 Platform for Application Development",
+    "website": "https://site.com",
+    "website_url": "site.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 76225936,
+    "handle": "site-com"
+  },
+  {
+    "id": 1115,
+    "website_name": "remove.bg",
+    "website": "https://www.remove.bg",
+    "website_url": "www.remove.bg",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 66824561,
+    "handle": "remove-bg"
+  },
+  {
+    "id": 171,
+    "website_name": "Quillbot",
+    "website": "https://quillbot.com",
+    "website_url": "quillbot.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 64245590,
+    "handle": "quillbot-paraphraser"
+  },
+  {
+    "id": 210,
+    "website_name": "Grammarly",
+    "website": "https://www.grammarly.com",
+    "website_url": "www.grammarly.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 57020728,
+    "handle": "grammarly"
+  },
+  {
+    "id": 9451,
+    "website_name": "Shutterstock",
+    "website": "https://shutterstock.com",
+    "website_url": "shutterstock.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 58710514,
+    "handle": "shutterstock-com"
+  },
+  {
+    "id": 9407,
+    "website_name": "HubSpot",
+    "website": "https://hubspot.com",
+    "website_url": "hubspot.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 35240846,
+    "handle": "hubspot-com"
+  },
+  {
+    "id": 9483,
+    "website_name": "SpicyChat AI",
+    "website": "https://spicychat.ai",
+    "website_url": "spicychat.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 38109276,
+    "handle": "spicychat-ai"
+  },
+  {
+    "id": 9430,
+    "website_name": "CapCut",
+    "website": "https://capcut.com",
+    "website_url": "capcut.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 40415093,
+    "handle": "capcut-com"
+  },
+  {
+    "id": 1297,
+    "website_name": "Miro",
+    "website": "https://miro.com",
+    "website_url": "miro.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 30568149,
+    "handle": "miro"
+  },
+  {
+    "id": 92,
+    "website_name": "Poe",
+    "website": "https://poe.com",
+    "website_url": "poe.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 23655877,
+    "handle": "poe"
+  },
+  {
+    "id": 9100,
+    "website_name": "Hugging Face",
+    "website": "https://huggingface.co",
+    "website_url": "huggingface.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 27175375,
+    "handle": "hugging-face"
+  },
+  {
+    "id": 6788,
+    "website_name": "CrushOn.AI",
+    "website": "https://crushon.ai",
+    "website_url": "crushon.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 19639509,
+    "handle": "crushon-ai"
+  },
+  {
+    "id": 9423,
+    "website_name": "Fotor",
+    "website": "https://fotor.com",
+    "website_url": "fotor.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 17767622,
+    "handle": "fotor-com"
+  },
+  {
+    "id": 220,
+    "website_name": "Civitai",
+    "website": "https://civitai.com",
+    "website_url": "civitai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 18616698,
+    "handle": "civitai"
+  },
+  {
+    "id": 9276,
+    "website_name": "Prolific",
+    "website": "https://prolific.com",
+    "website_url": "prolific.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 14089913,
+    "handle": "prolific-com"
+  },
+  {
+    "id": 867,
+    "website_name": "Leonardo.ai",
+    "website": "https://leonardo.ai",
+    "website_url": "leonardo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 17061130,
+    "handle": "leonardo-ai"
+  },
+  {
+    "id": 9234,
+    "website_name": "ElevenLabs",
+    "website": "https://elevenlabs.io",
+    "website_url": "elevenlabs.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 17614404,
+    "handle": "elevenlabs-io"
+  },
+  {
+    "id": 2709,
+    "website_name": "LINER",
+    "website": "https://getliner.com",
+    "website_url": "getliner.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 15731372,
+    "handle": "liner-ai-1"
+  },
+  {
+    "id": 9037,
+    "website_name": "Pixelcut",
+    "website": "https://pixelcut.ai",
+    "website_url": "pixelcut.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 15221514,
+    "handle": "pixelcut-ai"
+  },
+  {
+    "id": 9559,
+    "website_name": "PixAI - AI Art Generator",
+    "website": "https://pixai.art",
+    "website_url": "pixai.art",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 15652789,
+    "handle": "pixai-ai-art-generator"
+  },
+  {
+    "id": 7616,
+    "website_name": "Beacons",
+    "website": "https://beacons.ai",
+    "website_url": "beacons.ai",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 21414428,
+    "handle": "beacons-ai-2-0"
+  },
+  {
+    "id": 1713,
+    "website_name": "GPTZero",
+    "website": "https://gptzero.me",
+    "website_url": "gptzero.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 12389591,
+    "handle": "gptzero-me"
+  },
+  {
+    "id": 9208,
+    "website_name": "DeepAI",
+    "website": "https://deepai.org",
+    "website_url": "deepai.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 18759068,
+    "handle": "deepai-org"
+  },
+  {
+    "id": 190,
+    "website_name": "getimg.ai",
+    "website": "https://getimg.ai",
+    "website_url": "getimg.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 12356809,
+    "handle": "getimg-ai"
+  },
+  {
+    "id": 1187,
+    "website_name": "PhotoRoom",
+    "website": "https://www.photoroom.com",
+    "website_url": "www.photoroom.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 16216362,
+    "handle": "photoroom"
+  },
+  {
+    "id": 945,
+    "website_name": "OpenArt",
+    "website": "https://openart.ai",
+    "website_url": "openart.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 11713697,
+    "handle": "openart"
+  },
+  {
+    "id": 9445,
+    "website_name": "VEED.IO",
+    "website": "https://veed.io",
+    "website_url": "veed.io",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 11187892,
+    "handle": "veed-io"
+  },
+  {
+    "id": 3085,
+    "website_name": "ZeroGPT",
+    "website": "https://www.zerogpt.com",
+    "website_url": "www.zerogpt.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 21467871,
+    "handle": "zerogpt"
+  },
+  {
+    "id": 1515,
+    "website_name": "Monica - Your ChatGPT AI Assistant Chrome Extension",
+    "website": "https://monica.im",
+    "website_url": "monica.im",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 12728348,
+    "handle": "monica-ai"
+  },
+  {
+    "id": 1020,
+    "website_name": "InVideo",
+    "website": "https://invideo.io",
+    "website_url": "invideo.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 11325187,
+    "handle": "invideo"
+  },
+  {
+    "id": 9268,
+    "website_name": "Chub",
+    "website": "https://chub.ai",
+    "website_url": "chub.ai",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 10562962,
+    "handle": "chub-ai"
+  },
+  {
+    "id": 1293,
+    "website_name": "Pixlr",
+    "website": "https://pixlr.com",
+    "website_url": "pixlr.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 13464003,
+    "handle": "pixlr"
+  },
+  {
+    "id": 9435,
+    "website_name": "Gauthmath",
+    "website": "https://gauthmath.com",
+    "website_url": "gauthmath.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 13962155,
+    "handle": "gauthmath-com"
+  },
+  {
+    "id": 9424,
+    "website_name": "Course Hero",
+    "website": "https://coursehero.com",
+    "website_url": "coursehero.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 12615941,
+    "handle": "coursehero-com"
+  },
+  {
+    "id": 8800,
+    "website_name": "TurboScribe",
+    "website": "https://turboscribe.ai",
+    "website_url": "turboscribe.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 12492252,
+    "handle": "turboscribe-ai"
+  },
+  {
+    "id": 1022,
+    "website_name": "Otter.ai",
+    "website": "https://otter.ai",
+    "website_url": "otter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 7815864,
+    "handle": "otter-ai"
+  },
+  {
+    "id": 9433,
+    "website_name": "Wondershare",
+    "website": "https://wondershare.com",
+    "website_url": "wondershare.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 12114470,
+    "handle": "wondershare-com"
+  },
+  {
+    "id": 8860,
+    "website_name": "Zapier",
+    "website": "https://zapier.com",
+    "website_url": "zapier.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 9274556,
+    "handle": "zapier-com"
+  },
+  {
+    "id": 45,
+    "website_name": "Replit",
+    "website": "https://replit.com",
+    "website_url": "replit.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 8530259,
+    "handle": "replit"
+  },
+  {
+    "id": 9278,
+    "website_name": "Candy.ai",
+    "website": "https://candy.ai",
+    "website_url": "candy.ai",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 10501350,
+    "handle": "candy-ai"
+  },
+  {
+    "id": 183,
+    "website_name": "Runway",
+    "website": "https://runwayml.com",
+    "website_url": "runwayml.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 7281391,
+    "handle": "runwayml"
+  },
+  {
+    "id": 4824,
+    "website_name": "123RF",
+    "website": "https://www.123rf.com",
+    "website_url": "www.123rf.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 10410355,
+    "handle": "123rf-ai-search-engine"
+  },
+  {
+    "id": 9122,
+    "website_name": "Joyland",
+    "website": "https://joyland.ai",
+    "website_url": "joyland.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5835995,
+    "handle": "joyland-ai"
+  },
+  {
+    "id": 9007,
+    "website_name": "OpenRouter",
+    "website": "https://openrouter.ai",
+    "website_url": "openrouter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5501127,
+    "handle": "openrouter-ai"
+  },
+  {
+    "id": 9133,
+    "website_name": "Klaviyo",
+    "website": "https://klaviyo.com",
+    "website_url": "klaviyo.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5036178,
+    "handle": "klaviyo-com"
+  },
+  {
+    "id": 874,
+    "website_name": "The Search Control",
+    "website": "https://you.com",
+    "website_url": "you.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 5801172,
+    "handle": "you"
+  },
+  {
+    "id": 9436,
+    "website_name": "DataCamp",
+    "website": "https://datacamp.com",
+    "website_url": "datacamp.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 6881228,
+    "handle": "datacamp-com"
+  },
+  {
+    "id": 8791,
+    "website_name": "Transkriptor",
+    "website": "https://transkriptor.com",
+    "website_url": "transkriptor.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 6987323,
+    "handle": "transkriptor-com"
+  },
+  {
+    "id": 5691,
+    "website_name": "MailerLite",
+    "website": "https://www.mailerlite.com",
+    "website_url": "www.mailerlite.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5024708,
+    "handle": "mailerlite-ai-drag-drop-editor"
+  },
+  {
+    "id": 9179,
+    "website_name": "Clipto",
+    "website": "https://clipto.com",
+    "website_url": "clipto.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 9091538,
+    "handle": "clipto-com"
+  },
+  {
+    "id": 4973,
+    "website_name": "Sider",
+    "website": "https://sider.ai",
+    "website_url": "sider.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 6810014,
+    "handle": "sider"
+  },
+  {
+    "id": 1245,
+    "website_name": "Dropbox Sign",
+    "website": "https://www.hellosign.com",
+    "website_url": "www.hellosign.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4426054,
+    "handle": "hellosign"
+  },
+  {
+    "id": 9409,
+    "website_name": "Intercom",
+    "website": "https://intercom.com",
+    "website_url": "intercom.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 4093271,
+    "handle": "intercom-com"
+  },
+  {
+    "id": 909,
+    "website_name": "Voicemod",
+    "website": "https://www.voicemod.net",
+    "website_url": "www.voicemod.net",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 4767097,
+    "handle": "voicemod"
+  },
+  {
+    "id": 9127,
+    "website_name": "Kapwing",
+    "website": "https://kapwing.com",
+    "website_url": "kapwing.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4325551,
+    "handle": "kapwing-com"
+  },
+  {
+    "id": 9426,
+    "website_name": "Branded",
+    "website": "https://gobranded.com",
+    "website_url": "gobranded.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 4095003,
+    "handle": "gobranded-com"
+  },
+  {
+    "id": 9403,
+    "website_name": "PicWish",
+    "website": "https://picwish.com",
+    "website_url": "picwish.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 5982882,
+    "handle": "picwish-com"
+  },
+  {
+    "id": 9421,
+    "website_name": "SpoiledChild™",
+    "website": "https://spoiledchild.com",
+    "website_url": "spoiledchild.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 5021088,
+    "handle": "spoiledchild-com"
+  },
+  {
+    "id": 795,
+    "website_name": "FlowGPT",
+    "website": "https://flowgpt.com",
+    "website_url": "flowgpt.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4770438,
+    "handle": "flowgpt"
+  },
+  {
+    "id": 3605,
+    "website_name": "AI Content Solutions",
+    "website": "https://undetectable.ai",
+    "website_url": "undetectable.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 6348592,
+    "handle": "undetectable-ai"
+  },
+  {
+    "id": 266,
+    "website_name": "Speechify",
+    "website": "https://speechify.com",
+    "website_url": "speechify.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4516872,
+    "handle": "speechify"
+  },
+  {
+    "id": 4803,
+    "website_name": "Framer",
+    "website": "https://www.framer.com",
+    "website_url": "www.framer.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 3971333,
+    "handle": "framer-ai"
+  },
+  {
+    "id": 7876,
+    "website_name": "GirlfriendGPT - The AI Companion Chatroom",
+    "website": "https://gptgirlfriend.online",
+    "website_url": "gptgirlfriend.online",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4564861,
+    "handle": "gptgirlfriend"
+  },
+  {
+    "id": 1102,
+    "website_name": "NovelAI - The AI Storyteller",
+    "website": "https://novelai.net",
+    "website_url": "novelai.net",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 4336768,
+    "handle": "novelai"
+  },
+  {
+    "id": 8780,
+    "website_name": "The StoryGraph",
+    "website": "https://thestorygraph.com",
+    "website_url": "thestorygraph.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4066680,
+    "handle": "thestorygraph-com"
+  },
+  {
+    "id": 9457,
+    "website_name": "Mailchimp",
+    "website": "https://mailchi.mp",
+    "website_url": "mailchi.mp",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 12128919,
+    "handle": "mailchi-mp"
+  },
+  {
+    "id": 5195,
+    "website_name": "Artguru",
+    "website": "https://www.artguru.ai",
+    "website_url": "www.artguru.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5192614,
+    "handle": "artguru-ai-art-generator"
+  },
+  {
+    "id": 8817,
+    "website_name": "Veo Sports Camera",
+    "website": "https://veo.co",
+    "website_url": "veo.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3521214,
+    "handle": "veo-co"
+  },
+  {
+    "id": 131,
+    "website_name": "vidIQ",
+    "website": "https://vidiq.com",
+    "website_url": "vidiq.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 4069446,
+    "handle": "vidiq"
+  },
+  {
+    "id": 1512,
+    "website_name": "NaturalReader",
+    "website": "https://www.naturalreaders.com",
+    "website_url": "www.naturalreaders.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 5207419,
+    "handle": "naturalreaders"
+  },
+  {
+    "id": 8936,
+    "website_name": "ソースネクスト・サイトTOP",
+    "website": "https://www.sourcenext.com",
+    "website_url": "www.sourcenext.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3635749,
+    "handle": "sourcenext-com"
+  },
+  {
+    "id": 9232,
+    "website_name": "EasySBC",
+    "website": "https://easysbc.io",
+    "website_url": "easysbc.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3697892,
+    "handle": "easysbc-io"
+  },
+  {
+    "id": 8809,
+    "website_name": "Up Learn",
+    "website": "https://uplearn.co.uk",
+    "website_url": "uplearn.co.uk",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3161717,
+    "handle": "uplearn-co-uk"
+  },
+  {
+    "id": 1241,
+    "website_name": "ChatPDF",
+    "website": "https://www.chatpdf.com",
+    "website_url": "www.chatpdf.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3920183,
+    "handle": "chatpdf"
+  },
+  {
+    "id": 9181,
+    "website_name": "Coda",
+    "website": "https://coda.io",
+    "website_url": "coda.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3258690,
+    "handle": "coda-io"
+  },
+  {
+    "id": 9134,
+    "website_name": "Knowt",
+    "website": "https://knowt.com",
+    "website_url": "knowt.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3571932,
+    "handle": "knowt-com"
+  },
+  {
+    "id": 4100,
+    "website_name": "SnapEdit.App",
+    "website": "https://snapedit.app",
+    "website_url": "snapedit.app",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 3420884,
+    "handle": "snapedit-all-in-one-ai-photo-editor"
+  },
+  {
+    "id": 9185,
+    "website_name": "Cognito",
+    "website": "https://cognitoedu.org",
+    "website_url": "cognitoedu.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3160540,
+    "handle": "cognitoedu-org"
+  },
+  {
+    "id": 593,
+    "website_name": "AISEO - AI writing assistant, Copywriting & Paraphrasing Tool",
+    "website": "https://aiseo.ai",
+    "website_url": "aiseo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 6636061,
+    "handle": "aiseo"
+  },
+  {
+    "id": 3343,
+    "website_name": "Stealth Writer AI",
+    "website": "https://stealthwriter.ai",
+    "website_url": "stealthwriter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3062566,
+    "handle": "stealthwriter"
+  },
+  {
+    "id": 8963,
+    "website_name": "TabSquare",
+    "website": "https://tabsquare.com",
+    "website_url": "tabsquare.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3142138,
+    "handle": "tabsquare-com"
+  },
+  {
+    "id": 1495,
+    "website_name": "Moises App",
+    "website": "https://moises.ai",
+    "website_url": "moises.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2687240,
+    "handle": "moises"
+  },
+  {
+    "id": 307,
+    "website_name": "Kittl - Unleash Your Creative Power",
+    "website": "https://www.kittl.com",
+    "website_url": "www.kittl.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3203056,
+    "handle": "kittl"
+  },
+  {
+    "id": 9201,
+    "website_name": "Cursor",
+    "website": "https://cursor.sh",
+    "website_url": "cursor.sh",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4341051,
+    "handle": "cursor-sh"
+  },
+  {
+    "id": 9437,
+    "website_name": "Wondershare",
+    "website": "https://wondershare.net",
+    "website_url": "wondershare.net",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 4167825,
+    "handle": "wondershare-net"
+  },
+  {
+    "id": 5,
+    "website_name": "Descript",
+    "website": "https://www.descript.com",
+    "website_url": "www.descript.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3094563,
+    "handle": "descript"
+  },
+  {
+    "id": 3924,
+    "website_name": "Riverside.fm",
+    "website": "https://riverside.fm",
+    "website_url": "riverside.fm",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3163317,
+    "handle": "the-new-riverside"
+  },
+  {
+    "id": 2726,
+    "website_name": "Dify",
+    "website": "https://dify.ai",
+    "website_url": "dify.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2927573,
+    "handle": "dify-ai"
+  },
+  {
+    "id": 1348,
+    "website_name": "Tactiq",
+    "website": "https://tactiq.io",
+    "website_url": "tactiq.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3755409,
+    "handle": "tactiq"
+  },
+  {
+    "id": 1071,
+    "website_name": "Casetext",
+    "website": "https://casetext.com",
+    "website_url": "casetext.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4843399,
+    "handle": "casetext"
+  },
+  {
+    "id": 3079,
+    "website_name": "Fathom",
+    "website": "https://fathom.video",
+    "website_url": "fathom.video",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3079365,
+    "handle": "fathom-2-0"
+  },
+  {
+    "id": 1519,
+    "website_name": "Deep Dream Generator",
+    "website": "https://deepdreamgenerator.com",
+    "website_url": "deepdreamgenerator.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2446554,
+    "handle": "deep-dream-generator"
+  },
+  {
+    "id": 9311,
+    "website_name": "PTE APEUni",
+    "website": "https://apeuni.com",
+    "website_url": "apeuni.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1925365,
+    "handle": "apeuni-com"
+  },
+  {
+    "id": 8870,
+    "website_name": "ReadTheory",
+    "website": "https://readtheory.org",
+    "website_url": "readtheory.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 4400289,
+    "handle": "readtheory-org"
+  },
+  {
+    "id": 9382,
+    "website_name": "Goodnotes",
+    "website": "https://goodnotes.com",
+    "website_url": "goodnotes.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 2349275,
+    "handle": "goodnotes"
+  },
+  {
+    "id": 237,
+    "website_name": "Instantly.ai",
+    "website": "https://instantly.ai",
+    "website_url": "instantly.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2115591,
+    "handle": "instantly"
+  },
+  {
+    "id": 12,
+    "website_name": "Synthesia",
+    "website": "https://www.synthesia.io",
+    "website_url": "www.synthesia.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2657019,
+    "handle": "synthesia"
+  },
+  {
+    "id": 9104,
+    "website_name": "Icons8",
+    "website": "https://icons8.com",
+    "website_url": "icons8.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2745004,
+    "handle": "icons8-com"
+  },
+  {
+    "id": 5850,
+    "website_name": "HIX.AI",
+    "website": "https://hix.ai",
+    "website_url": "hix.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3267770,
+    "handle": "hix-ai"
+  },
+  {
+    "id": 9113,
+    "website_name": "Intercom",
+    "website": "https://intercom.help",
+    "website_url": "intercom.help",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3063948,
+    "handle": "intercom-help"
+  },
+  {
+    "id": 530,
+    "website_name": "Remini - AI Photo Enhancer",
+    "website": "https://remini.ai",
+    "website_url": "remini.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2090525,
+    "handle": "remini"
+  },
+  {
+    "id": 8827,
+    "website_name": "Vondy: Next Generation AI Apps",
+    "website": "https://vondy.com",
+    "website_url": "vondy.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2215540,
+    "handle": "vondy-com"
+  },
+  {
+    "id": 9429,
+    "website_name": "Aura",
+    "website": "https://aura.com",
+    "website_url": "aura.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 3074266,
+    "handle": "aura-com"
+  },
+  {
+    "id": 8805,
+    "website_name": "Undress AI",
+    "website": "https://undress.app",
+    "website_url": "undress.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1955043,
+    "handle": "undress-ai-app"
+  },
+  {
+    "id": 1336,
+    "website_name": "Fillout.com",
+    "website": "https://fillout.com",
+    "website_url": "fillout.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2927628,
+    "handle": "fillout-com"
+  },
+  {
+    "id": 9478,
+    "website_name": "MyMap.AI",
+    "website": "https://mymap.ai",
+    "website_url": "mymap.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1935415,
+    "handle": "mymap-ai"
+  },
+  {
+    "id": 9459,
+    "website_name": "Gong - Revenue Intelligence Platform",
+    "website": "https://gong.io",
+    "website_url": "gong.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 1898101,
+    "handle": "gong-io"
+  },
+  {
+    "id": 9087,
+    "website_name": "Happy Scribe",
+    "website": "https://happyscribe.com",
+    "website_url": "happyscribe.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2073531,
+    "handle": "happyscribe-com"
+  },
+  {
+    "id": 1188,
+    "website_name": "Resume Worded",
+    "website": "https://resumeworded.com",
+    "website_url": "resumeworded.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 2141554,
+    "handle": "resume-worded"
+  },
+  {
+    "id": 9390,
+    "website_name": "Piktochart",
+    "website": "https://piktochart.com",
+    "website_url": "piktochart.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 2197676,
+    "handle": "piktochart-com"
+  },
+  {
+    "id": 511,
+    "website_name": "ImgUpscaler",
+    "website": "https://imgupscaler.com",
+    "website_url": "imgupscaler.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 3005138,
+    "handle": "img-upscaler"
+  },
+  {
+    "id": 4974,
+    "website_name": "Japanese Storywriting AIAI Novelistβ2.0",
+    "website": "https://ai-novel.com",
+    "website_url": "ai-novel.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 2204960,
+    "handle": "ai-novel"
+  },
+  {
+    "id": 8951,
+    "website_name": "Study Fetch",
+    "website": "https://studyfetch.com",
+    "website_url": "studyfetch.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1936116,
+    "handle": "studyfetch-com"
+  },
+  {
+    "id": 9274,
+    "website_name": "Seismic",
+    "website": "https://seismic.com",
+    "website_url": "seismic.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1577298,
+    "handle": "seismic-com"
+  },
+  {
+    "id": 9057,
+    "website_name": "Promptchan AI",
+    "website": "https://promptchan.com",
+    "website_url": "promptchan.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1804704,
+    "handle": "promptchan-ai"
+  },
+  {
+    "id": 9036,
+    "website_name": "Pitch",
+    "website": "https://pitch.com",
+    "website_url": "pitch.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1688375,
+    "handle": "pitch-com"
+  },
+  {
+    "id": 9275,
+    "website_name": "HitPaw Official",
+    "website": "https://hitpaw.com",
+    "website_url": "hitpaw.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 2634275,
+    "handle": "hitpaw-com"
+  },
+  {
+    "id": 7435,
+    "website_name": "Imagine AI Art Generator",
+    "website": "https://www.imagine.art",
+    "website_url": "www.imagine.art",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1796362,
+    "handle": "imagine-ai-art-generator"
+  },
+  {
+    "id": 493,
+    "website_name": "Vizard.ai",
+    "website": "https://vizard.ai",
+    "website_url": "vizard.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1657448,
+    "handle": "vizard"
+  },
+  {
+    "id": 9455,
+    "website_name": "clickworker",
+    "website": "https://clickworker.com",
+    "website_url": "clickworker.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1578565,
+    "handle": "clickworker-com"
+  },
+  {
+    "id": 9026,
+    "website_name": "Skillsoft Percipio",
+    "website": "https://percipio.com",
+    "website_url": "percipio.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1420691,
+    "handle": "percipio-com"
+  },
+  {
+    "id": 9151,
+    "website_name": "Live3D",
+    "website": "https://live3d.io",
+    "website_url": "live3d.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1803290,
+    "handle": "live3d-io"
+  },
+  {
+    "id": 9131,
+    "website_name": "Kindroid",
+    "website": "https://kindroid.ai",
+    "website_url": "kindroid.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1732356,
+    "handle": "kindroid-ai"
+  },
+  {
+    "id": 2262,
+    "website_name": "Coohom",
+    "website": "https://www.coohom.com",
+    "website_url": "www.coohom.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1562244,
+    "handle": "coohom-3d-home-interior-design-ai-tool"
+  },
+  {
+    "id": 9439,
+    "website_name": "ProWritingAid",
+    "website": "https://prowritingaid.com",
+    "website_url": "prowritingaid.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 2135645,
+    "handle": "prowritingaid-com"
+  },
+  {
+    "id": 258,
+    "website_name": "Reface",
+    "website": "https://reface.ai",
+    "website_url": "reface.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1415249,
+    "handle": "reface-ai"
+  },
+  {
+    "id": 1153,
+    "website_name": "Artbreeder",
+    "website": "https://www.artbreeder.com",
+    "website_url": "www.artbreeder.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1471242,
+    "handle": "artbreeder"
+  },
+  {
+    "id": 623,
+    "website_name": "LANDR: Creative Tools for Musicians",
+    "website": "https://www.landr.com",
+    "website_url": "www.landr.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1665714,
+    "handle": "landr"
+  },
+  {
+    "id": 925,
+    "website_name": "Wordtune",
+    "website": "https://www.wordtune.com",
+    "website_url": "www.wordtune.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1565372,
+    "handle": "wordtune"
+  },
+  {
+    "id": 9093,
+    "website_name": "HEROZ",
+    "website": "https://heroz.jp",
+    "website_url": "heroz.jp",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1790268,
+    "handle": "heroz-jp"
+  },
+  {
+    "id": 8811,
+    "website_name": "Motion",
+    "website": "https://usemotion.com",
+    "website_url": "usemotion.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1785501,
+    "handle": "usemotion-com"
+  },
+  {
+    "id": 4298,
+    "website_name": "DocsBot AI",
+    "website": "https://docsbot.ai",
+    "website_url": "docsbot.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1869779,
+    "handle": "docsbot-ai"
+  },
+  {
+    "id": 9182,
+    "website_name": "Coddy - Code Makes Perfect",
+    "website": "https://coddy.tech",
+    "website_url": "coddy.tech",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1600714,
+    "handle": "coddy-tech"
+  },
+  {
+    "id": 626,
+    "website_name": "Beautiful.ai",
+    "website": "https://www.beautiful.ai",
+    "website_url": "www.beautiful.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1536243,
+    "handle": "beautiful-ai"
+  },
+  {
+    "id": 627,
+    "website_name": "LALAL.AI",
+    "website": "https://www.lalal.ai",
+    "website_url": "www.lalal.ai",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 2096874,
+    "handle": "lalal-ai"
+  },
+  {
+    "id": 9282,
+    "website_name": "TopMediai®",
+    "website": "https://topmediai.com",
+    "website_url": "topmediai.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1608433,
+    "handle": "topmediai-com"
+  },
+  {
+    "id": 8783,
+    "website_name": "tl;dv",
+    "website": "https://tldv.io",
+    "website_url": "tldv.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1607313,
+    "handle": "tldv-io"
+  },
+  {
+    "id": 9088,
+    "website_name": "hCaptcha",
+    "website": "https://hcaptcha.com",
+    "website_url": "hcaptcha.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 3914292,
+    "handle": "hcaptcha-com"
+  },
+  {
+    "id": 8931,
+    "website_name": "Smartlead",
+    "website": "https://smartlead.ai",
+    "website_url": "smartlead.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1218436,
+    "handle": "smartlead-ai"
+  },
+  {
+    "id": 9328,
+    "website_name": "Bark",
+    "website": "https://bark.us",
+    "website_url": "bark.us",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1576656,
+    "handle": "bark-us"
+  },
+  {
+    "id": 9047,
+    "website_name": "PopAi",
+    "website": "https://popai.pro",
+    "website_url": "popai.pro",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1499390,
+    "handle": "popai-pro"
+  },
+  {
+    "id": 8884,
+    "website_name": "Revisely",
+    "website": "https://revisely.com",
+    "website_url": "revisely.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1346354,
+    "handle": "revisely-com"
+  },
+  {
+    "id": 9448,
+    "website_name": "Akool",
+    "website": "https://akool.com",
+    "website_url": "akool.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 1191030,
+    "handle": "akool-com"
+  },
+  {
+    "id": 34,
+    "website_name": "Jasper - AI Writer | AI Marketing Co-Pilot",
+    "website": "https://jasper.ai",
+    "website_url": "jasper.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1328871,
+    "handle": "jasper"
+  },
+  {
+    "id": 9302,
+    "website_name": "Algor Education",
+    "website": "https://algoreducation.com",
+    "website_url": "algoreducation.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1349360,
+    "handle": "algoreducation-com"
+  },
+  {
+    "id": 180,
+    "website_name": "Roboflow",
+    "website": "https://roboflow.com",
+    "website_url": "roboflow.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1265893,
+    "handle": "roboflow"
+  },
+  {
+    "id": 9456,
+    "website_name": "Nero Software",
+    "website": "https://nero.com",
+    "website_url": "nero.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1565068,
+    "handle": "nero-com"
+  },
+  {
+    "id": 179,
+    "website_name": "Murf AI",
+    "website": "https://murf.ai",
+    "website_url": "murf.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1272431,
+    "handle": "murf-ai"
+  },
+  {
+    "id": 80,
+    "website_name": "Query Search",
+    "website": "https://phind.com",
+    "website_url": "phind.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1258880,
+    "handle": "phind"
+  },
+  {
+    "id": 26,
+    "website_name": "Easy-Peasy.AI",
+    "website": "https://easy-peasy.ai",
+    "website_url": "easy-peasy.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1549713,
+    "handle": "easy-peasy-ai"
+  },
+  {
+    "id": 9381,
+    "website_name": "LightPDF",
+    "website": "https://lightpdf.com",
+    "website_url": "lightpdf.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 1633969,
+    "handle": "lightpdf-com"
+  },
+  {
+    "id": 9408,
+    "website_name": "Crisp",
+    "website": "https://crisp.chat",
+    "website_url": "crisp.chat",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 1153738,
+    "handle": "crisp-chat"
+  },
+  {
+    "id": 1041,
+    "website_name": "Simplified",
+    "website": "https://simplified.com",
+    "website_url": "simplified.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1239373,
+    "handle": "simplified"
+  },
+  {
+    "id": 25,
+    "website_name": "Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool",
+    "website": "https://writesonic.com",
+    "website_url": "writesonic.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1503370,
+    "handle": "writesonic"
+  },
+  {
+    "id": 1356,
+    "website_name": "D-ID",
+    "website": "https://www.d-id.com",
+    "website_url": "www.d-id.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1205400,
+    "handle": "d-id"
+  },
+  {
+    "id": 8957,
+    "website_name": "Surfer",
+    "website": "https://surferseo.com",
+    "website_url": "surferseo.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1355857,
+    "handle": "surferseo-com"
+  },
+  {
+    "id": 9235,
+    "website_name": "elsaspeak",
+    "website": "https://elsaspeak.com",
+    "website_url": "elsaspeak.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1811849,
+    "handle": "elsaspeak-com"
+  },
+  {
+    "id": 1513,
+    "website_name": "scite",
+    "website": "https://scite.ai",
+    "website_url": "scite.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1306223,
+    "handle": "scite"
+  },
+  {
+    "id": 903,
+    "website_name": "Algolia",
+    "website": "https://www.algolia.com",
+    "website_url": "www.algolia.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 1111421,
+    "handle": "algolia"
+  },
+  {
+    "id": 1656,
+    "website_name": "TalkPal",
+    "website": "https://talkpal.ai",
+    "website_url": "talkpal.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1490531,
+    "handle": "talkpal-ai"
+  },
+  {
+    "id": 193,
+    "website_name": "Stability AI",
+    "website": "https://stability.ai",
+    "website_url": "stability.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1320642,
+    "handle": "stable-diffusion"
+  },
+  {
+    "id": 8879,
+    "website_name": "ResumeBuilder.com",
+    "website": "https://resumebuilder.com",
+    "website_url": "resumebuilder.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1108557,
+    "handle": "resumebuilder-com"
+  },
+  {
+    "id": 9032,
+    "website_name": "Phrasly",
+    "website": "https://phrasly.ai",
+    "website_url": "phrasly.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1291068,
+    "handle": "phrasly-ai"
+  },
+  {
+    "id": 1029,
+    "website_name": "Clipdrop",
+    "website": "https://clipdrop.co",
+    "website_url": "clipdrop.co",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 1278928,
+    "handle": "clipdrop"
+  },
+  {
+    "id": 5313,
+    "website_name": "Submagic",
+    "website": "https://submagic.co",
+    "website_url": "submagic.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1166729,
+    "handle": "submagic"
+  },
+  {
+    "id": 8824,
+    "website_name": "Vidyard - Video Tools for Virtual Sales and Marketing Teams",
+    "website": "https://vidyard.com",
+    "website_url": "vidyard.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1435640,
+    "handle": "vidyard-com"
+  },
+  {
+    "id": 1073,
+    "website_name": "Sudowrite",
+    "website": "https://www.sudowrite.com",
+    "website_url": "www.sudowrite.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1054545,
+    "handle": "sudowrite"
+  },
+  {
+    "id": 1505,
+    "website_name": "Language Reactor",
+    "website": "https://www.languagereactor.com",
+    "website_url": "www.languagereactor.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 1141973,
+    "handle": "language-reactor"
+  },
+  {
+    "id": 434,
+    "website_name": "FineShare",
+    "website": "https://www.fineshare.com",
+    "website_url": "www.fineshare.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1173309,
+    "handle": "fineshare"
+  },
+  {
+    "id": 1002,
+    "website_name": "Reclaim AI",
+    "website": "https://reclaim.ai",
+    "website_url": "reclaim.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1014872,
+    "handle": "reclaim-ai"
+  },
+  {
+    "id": 1058,
+    "website_name": "10Web",
+    "website": "https://10web.io",
+    "website_url": "10web.io",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1233060,
+    "handle": "10web"
+  },
+  {
+    "id": 1182,
+    "website_name": "Uizard",
+    "website": "https://uizard.io",
+    "website_url": "uizard.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 964252,
+    "handle": "uizard"
+  },
+  {
+    "id": 9364,
+    "website_name": "Onfido",
+    "website": "https://onfido.com",
+    "website_url": "onfido.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 1275920,
+    "handle": "onfido-com"
+  },
+  {
+    "id": 815,
+    "website_name": "AI Image Enlarger",
+    "website": "https://imglarger.com",
+    "website_url": "imglarger.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 942970,
+    "handle": "ai-image-enlarger"
+  },
+  {
+    "id": 1133,
+    "website_name": "RunPod",
+    "website": "https://www.runpod.io",
+    "website_url": "www.runpod.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 912274,
+    "handle": "runpod"
+  },
+  {
+    "id": 523,
+    "website_name": "Kaiber",
+    "website": "https://kaiber.ai",
+    "website_url": "kaiber.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 941403,
+    "handle": "kaiber-ai"
+  },
+  {
+    "id": 615,
+    "website_name": "Mindgrasp AI",
+    "website": "https://mindgrasp.ai",
+    "website_url": "mindgrasp.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1032885,
+    "handle": "mindgrasp"
+  },
+  {
+    "id": 6217,
+    "website_name": "Clay",
+    "website": "https://www.clay.com",
+    "website_url": "www.clay.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 964801,
+    "handle": "clay-2-0"
+  },
+  {
+    "id": 22,
+    "website_name": "Copy.ai",
+    "website": "https://www.copy.ai",
+    "website_url": "www.copy.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1121585,
+    "handle": "copy-ai"
+  },
+  {
+    "id": 9300,
+    "website_name": "AI STUDIOS",
+    "website": "https://aistudios.com",
+    "website_url": "aistudios.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 980055,
+    "handle": "ai-studios"
+  },
+  {
+    "id": 4975,
+    "website_name": "Gencraft",
+    "website": "https://gencraft.com",
+    "website_url": "gencraft.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 937047,
+    "handle": "gencraft"
+  },
+  {
+    "id": 9076,
+    "website_name": "Glide",
+    "website": "https://glideapps.com",
+    "website_url": "glideapps.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 898671,
+    "handle": "glideapps-com"
+  },
+  {
+    "id": 9449,
+    "website_name": "Bigjpg",
+    "website": "https://bigjpg.com",
+    "website_url": "bigjpg.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1546608,
+    "handle": "bigjpg-com"
+  },
+  {
+    "id": 990,
+    "website_name": "Hotpot.ai",
+    "website": "https://hotpot.ai",
+    "website_url": "hotpot.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 895948,
+    "handle": "hotpot-ai"
+  },
+  {
+    "id": 8822,
+    "website_name": "VideoGen - AI Video Generator",
+    "website": "https://videogen.io",
+    "website_url": "videogen.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 876621,
+    "handle": "videogen-io"
+  },
+  {
+    "id": 699,
+    "website_name": "TextCortex",
+    "website": "https://textcortex.com",
+    "website_url": "textcortex.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1003744,
+    "handle": "textcortex-ai"
+  },
+  {
+    "id": 1718,
+    "website_name": "Dezgo",
+    "website": "https://dezgo.com",
+    "website_url": "dezgo.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 988824,
+    "handle": "dezgo"
+  },
+  {
+    "id": 9367,
+    "website_name": "GPTinf",
+    "website": "https://gptinf.com",
+    "website_url": "gptinf.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 757742,
+    "handle": "gptinf-com"
+  },
+  {
+    "id": 9132,
+    "website_name": "Kits AI",
+    "website": "https://kits.ai",
+    "website_url": "kits.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 895731,
+    "handle": "kits-ai"
+  },
+  {
+    "id": 8977,
+    "website_name": "Muah.AI",
+    "website": "https://muah.ai",
+    "website_url": "muah.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 848401,
+    "handle": "muah-ai"
+  },
+  {
+    "id": 1104,
+    "website_name": "FakeYou - Deep Fake Text to Speech",
+    "website": "https://fakeyou.com",
+    "website_url": "fakeyou.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 870217,
+    "handle": "fakeyou"
+  },
+  {
+    "id": 251,
+    "website_name": "Supercharge Your Writing with Jenni AI",
+    "website": "https://jenni.ai",
+    "website_url": "jenni.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 905150,
+    "handle": "jenni"
+  },
+  {
+    "id": 105,
+    "website_name": "Cleanup.pictures",
+    "website": "https://cleanup.pictures",
+    "website_url": "cleanup.pictures",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1303393,
+    "handle": "cleanup-pictures"
+  },
+  {
+    "id": 9454,
+    "website_name": "Hint",
+    "website": "https://hint.app",
+    "website_url": "hint.app",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 1337919,
+    "handle": "hint-app"
+  },
+  {
+    "id": 8,
+    "website_name": "Durable AI Website Builder and Small Business Software",
+    "website": "https://durable.co",
+    "website_url": "durable.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 908903,
+    "handle": "durable"
+  },
+  {
+    "id": 8876,
+    "website_name": "Relume",
+    "website": "https://relume.io",
+    "website_url": "relume.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 849512,
+    "handle": "relume-io"
+  },
+  {
+    "id": 1524,
+    "website_name": "AI Profile Picture Maker",
+    "website": "https://pfpmaker.com",
+    "website_url": "pfpmaker.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 829905,
+    "handle": "ai-profile-picture-maker"
+  },
+  {
+    "id": 6318,
+    "website_name": "starryai",
+    "website": "https://starryai.com",
+    "website_url": "starryai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 921187,
+    "handle": "starryai-2-0"
+  },
+  {
+    "id": 2722,
+    "website_name": "PPSPY",
+    "website": "https://www.ppspy.com",
+    "website_url": "www.ppspy.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 935298,
+    "handle": "ppspy-dropshipping-by-ai"
+  },
+  {
+    "id": 1714,
+    "website_name": "AIPRM",
+    "website": "https://www.aiprm.com",
+    "website_url": "www.aiprm.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1327902,
+    "handle": "aiprm"
+  },
+  {
+    "id": 876,
+    "website_name": "Lexica",
+    "website": "https://lexica.art",
+    "website_url": "lexica.art",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 786337,
+    "handle": "lexica"
+  },
+  {
+    "id": 1514,
+    "website_name": "Photofeeler",
+    "website": "https://www.photofeeler.com",
+    "website_url": "www.photofeeler.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 772626,
+    "handle": "photofeeler"
+  },
+  {
+    "id": 9432,
+    "website_name": "TubeBuddy",
+    "website": "https://tubebuddy.com",
+    "website_url": "tubebuddy.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 924286,
+    "handle": "tubebuddy-com"
+  },
+  {
+    "id": 9103,
+    "website_name": "HypeAuditor",
+    "website": "https://hypeauditor.com",
+    "website_url": "hypeauditor.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 892397,
+    "handle": "hypeauditor-com"
+  },
+  {
+    "id": 1446,
+    "website_name": "Vance AI Background Remover",
+    "website": "https://vanceai.com",
+    "website_url": "vanceai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 877873,
+    "handle": "vance-ai-background-remover"
+  },
+  {
+    "id": 9315,
+    "website_name": "Ask AI - AI Powered Chat Bot Assistant",
+    "website": "https://askaichat.app",
+    "website_url": "askaichat.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 703647,
+    "handle": "askaichat-app"
+  },
+  {
+    "id": 1379,
+    "website_name": "Lingvanex",
+    "website": "http://www.lingvanex.com",
+    "website_url": "www.lingvanex.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 942966,
+    "handle": "lingvanex"
+  },
+  {
+    "id": 9356,
+    "website_name": "Chaport",
+    "website": "https://chaport.com",
+    "website_url": "chaport.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 944238,
+    "handle": "chaport-com"
+  },
+  {
+    "id": 948,
+    "website_name": "PromptHero",
+    "website": "https://prompthero.com",
+    "website_url": "prompthero.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 855151,
+    "handle": "prompthero"
+  },
+  {
+    "id": 8998,
+    "website_name": "Nova - ChatGPT AI Chatbot",
+    "website": "https://novaapp.ai",
+    "website_url": "novaapp.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 793010,
+    "handle": "novaapp-ai"
+  },
+  {
+    "id": 1523,
+    "website_name": "HyperWrite",
+    "website": "https://www.hyperwriteai.com",
+    "website_url": "www.hyperwriteai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 741717,
+    "handle": "hyperwrite-ai"
+  },
+  {
+    "id": 8768,
+    "website_name": "Tarteel",
+    "website": "https://tarteel.ai",
+    "website_url": "tarteel.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 951297,
+    "handle": "tarteel-ai"
+  },
+  {
+    "id": 8262,
+    "website_name": "GitBook",
+    "website": "https://gitbook.com",
+    "website_url": "gitbook.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 804261,
+    "handle": "the-new-gitbook"
+  },
+  {
+    "id": 8924,
+    "website_name": "Sintra AI",
+    "website": "https://sintra.ai",
+    "website_url": "sintra.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 735136,
+    "handle": "sintra-ai"
+  },
+  {
+    "id": 9139,
+    "website_name": "Kupid AI - Chat with AI Girls",
+    "website": "https://kupid.ai",
+    "website_url": "kupid.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 828195,
+    "handle": "kupid-ai"
+  },
+  {
+    "id": 3012,
+    "website_name": "Winston AI",
+    "website": "https://gowinston.ai",
+    "website_url": "gowinston.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 742898,
+    "handle": "winston-ai"
+  },
+  {
+    "id": 6089,
+    "website_name": "GravityWrite: Top AI Writer, Content Generator & Assistant",
+    "website": "https://gravitywrite.com",
+    "website_url": "gravitywrite.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 711432,
+    "handle": "gravity-write"
+  },
+  {
+    "id": 9444,
+    "website_name": "Appen",
+    "website": "https://appen.com",
+    "website_url": "appen.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 891541,
+    "handle": "appen-com"
+  },
+  {
+    "id": 8819,
+    "website_name": "Vexels",
+    "website": "https://vexels.com",
+    "website_url": "vexels.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 1014560,
+    "handle": "vexels-com"
+  },
+  {
+    "id": 1559,
+    "website_name": "ChatFAI",
+    "website": "https://chatfai.com",
+    "website_url": "chatfai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 775208,
+    "handle": "chatfai"
+  },
+  {
+    "id": 1088,
+    "website_name": "neural.love",
+    "website": "https://neural.love",
+    "website_url": "neural.love",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 810626,
+    "handle": "neural-love-art-generator"
+  },
+  {
+    "id": 8872,
+    "website_name": "Re:amaze",
+    "website": "https://reamaze.com",
+    "website_url": "reamaze.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 616726,
+    "handle": "reamaze-com"
+  },
+  {
+    "id": 2724,
+    "website_name": "Rask AI",
+    "website": "https://www.rask.ai",
+    "website_url": "www.rask.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 654110,
+    "handle": "rask-ai"
+  },
+  {
+    "id": 31,
+    "website_name": "Tome",
+    "website": "https://tome.app",
+    "website_url": "tome.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 805801,
+    "handle": "tome"
+  },
+  {
+    "id": 9224,
+    "website_name": "DREAMPRESS",
+    "website": "https://dreampress.ai",
+    "website_url": "dreampress.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 685888,
+    "handle": "dreampress-ai"
+  },
+  {
+    "id": 684,
+    "website_name": "MagicSlides",
+    "website": "https://www.magicslides.app",
+    "website_url": "www.magicslides.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 704606,
+    "handle": "magicslides"
+  },
+  {
+    "id": 161,
+    "website_name": "Softr",
+    "website": "https://www.softr.io",
+    "website_url": "www.softr.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 745218,
+    "handle": "softr"
+  },
+  {
+    "id": 918,
+    "website_name": "Evoto",
+    "website": "https://www.evoto.ai",
+    "website_url": "www.evoto.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 716531,
+    "handle": "evoto-ai"
+  },
+  {
+    "id": 139,
+    "website_name": "Flair",
+    "website": "https://flair.ai",
+    "website_url": "flair.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 568751,
+    "handle": "flair-ai"
+  },
+  {
+    "id": 6011,
+    "website_name": "SlideSpeak",
+    "website": "https://slidespeak.co",
+    "website_url": "slidespeak.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 658278,
+    "handle": "slidespeak"
+  },
+  {
+    "id": 1248,
+    "website_name": "Raycast",
+    "website": "https://www.raycast.com",
+    "website_url": "www.raycast.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 734170,
+    "handle": "raycast"
+  },
+  {
+    "id": 535,
+    "website_name": "Chatbase",
+    "website": "https://www.chatbase.co",
+    "website_url": "www.chatbase.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 686187,
+    "handle": "chatbase"
+  },
+  {
+    "id": 8844,
+    "website_name": "WinningHunter",
+    "website": "https://winninghunter.com",
+    "website_url": "winninghunter.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 573125,
+    "handle": "winninghunter-com"
+  },
+  {
+    "id": 4675,
+    "website_name": "LOVO AI Voice Generator",
+    "website": "https://lovo.ai",
+    "website_url": "lovo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 618863,
+    "handle": "lovo-ai"
+  },
+  {
+    "id": 75,
+    "website_name": "Taplio",
+    "website": "https://taplio.com",
+    "website_url": "taplio.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 779889,
+    "handle": "taplio"
+  },
+  {
+    "id": 1050,
+    "website_name": "Unbounce",
+    "website": "https://unbounce.com",
+    "website_url": "unbounce.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 548035,
+    "handle": "unbounce"
+  },
+  {
+    "id": 606,
+    "website_name": "Lumen5",
+    "website": "https://lumen5.com",
+    "website_url": "lumen5.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 614212,
+    "handle": "lumen5"
+  },
+  {
+    "id": 2538,
+    "website_name": "SpeechGen.io",
+    "website": "https://speechgen.io",
+    "website_url": "speechgen.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 895414,
+    "handle": "speechgen-io"
+  },
+  {
+    "id": 4727,
+    "website_name": "https://www.nastia.ai/",
+    "website": "https://www.nastia.ai",
+    "website_url": "www.nastia.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 641916,
+    "handle": "nastia-ai"
+  },
+  {
+    "id": 1130,
+    "website_name": "Artflow.ai",
+    "website": "https://artflow.ai",
+    "website_url": "artflow.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 603151,
+    "handle": "artflow-ai"
+  },
+  {
+    "id": 4971,
+    "website_name": "Musicfy",
+    "website": "https://musicfy.lol",
+    "website_url": "musicfy.lol",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 596978,
+    "handle": "musicfy"
+  },
+  {
+    "id": 1061,
+    "website_name": "Mage",
+    "website": "https://www.mage.space",
+    "website_url": "www.mage.space",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 618821,
+    "handle": "mage"
+  },
+  {
+    "id": 9266,
+    "website_name": "Pl@ntNet",
+    "website": "https://plantnet.org",
+    "website_url": "plantnet.org",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 612512,
+    "handle": "plantnet-org"
+  },
+  {
+    "id": 3737,
+    "website_name": "AskYourPDF",
+    "website": "https://www.askyourpdf.com",
+    "website_url": "www.askyourpdf.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 637722,
+    "handle": "askyourpdf"
+  },
+  {
+    "id": 232,
+    "website_name": "PromptBase",
+    "website": "https://promptbase.com",
+    "website_url": "promptbase.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 551743,
+    "handle": "promptbase"
+  },
+  {
+    "id": 9120,
+    "website_name": "Jina AI",
+    "website": "https://jina.ai",
+    "website_url": "jina.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 642551,
+    "handle": "jina-ai"
+  },
+  {
+    "id": 9372,
+    "website_name": "Apowersoft",
+    "website": "https://apowersoft.com",
+    "website_url": "apowersoft.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 714319,
+    "handle": "apowersoft-com"
+  },
+  {
+    "id": 9244,
+    "website_name": "Faceless",
+    "website": "https://faceless.video",
+    "website_url": "faceless.video",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 552892,
+    "handle": "faceless-video"
+  },
+  {
+    "id": 9260,
+    "website_name": "FreedomGPT",
+    "website": "https://freedomgpt.com",
+    "website_url": "freedomgpt.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 592033,
+    "handle": "freedomgpt-com"
+  },
+  {
+    "id": 9365,
+    "website_name": "Craft",
+    "website": "https://craft.do",
+    "website_url": "craft.do",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 584217,
+    "handle": "craft-do"
+  },
+  {
+    "id": 9371,
+    "website_name": "Futurepedia - Find The Best AI Tools & Software",
+    "website": "https://futurepedia.io",
+    "website_url": "futurepedia.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 642104,
+    "handle": "futurepedia-find-the-best-ai-tools-software"
+  },
+  {
+    "id": 4728,
+    "website_name": "Cockatoo",
+    "website": "https://www.cockatoo.com",
+    "website_url": "www.cockatoo.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 479226,
+    "handle": "cockatoo"
+  },
+  {
+    "id": 9425,
+    "website_name": "Appy Pie",
+    "website": "https://appypie.com",
+    "website_url": "appypie.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 526253,
+    "handle": "appypie-com"
+  },
+  {
+    "id": 9460,
+    "website_name": "ContentStudio",
+    "website": "https://contentstudio.io",
+    "website_url": "contentstudio.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 601791,
+    "handle": "contentstudio-io"
+  },
+  {
+    "id": 8954,
+    "website_name": "Suno AI",
+    "website": "https://suno.ai",
+    "website_url": "suno.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 806427,
+    "handle": "suno-ai"
+  },
+  {
+    "id": 8890,
+    "website_name": "Robly Email Marketing",
+    "website": "https://robly.com",
+    "website_url": "robly.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 694795,
+    "handle": "robly-com"
+  },
+  {
+    "id": 9094,
+    "website_name": "Hex",
+    "website": "https://hex.tech",
+    "website_url": "hex.tech",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 531472,
+    "handle": "hex-tech"
+  },
+  {
+    "id": 9230,
+    "website_name": "E1U Life All-in-one marketing platform",
+    "website": "https://e1ulife.com",
+    "website_url": "e1ulife.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 486888,
+    "handle": "e1ulife-com"
+  },
+  {
+    "id": 8209,
+    "website_name": "Magnific AI",
+    "website": "https://magnific.ai",
+    "website_url": "magnific.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 593190,
+    "handle": "magnific-ai"
+  },
+  {
+    "id": 1069,
+    "website_name": "Resemble AI Voice Generator with Text-to-Speech and Speech-to-Speech",
+    "website": "https://www.resemble.ai",
+    "website_url": "www.resemble.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 561325,
+    "handle": "resemble"
+  },
+  {
+    "id": 81,
+    "website_name": "Uberduck",
+    "website": "https://uberduck.ai",
+    "website_url": "uberduck.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 516090,
+    "handle": "uberduck"
+  },
+  {
+    "id": 3989,
+    "website_name": "DupDub Voice Generator",
+    "website": "https://www.dupdub.com",
+    "website_url": "www.dupdub.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 482100,
+    "handle": "dupdub"
+  },
+  {
+    "id": 672,
+    "website_name": "ROAST",
+    "website": "https://roast.dating",
+    "website_url": "roast.dating",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 721043,
+    "handle": "roast-dating"
+  },
+  {
+    "id": 168,
+    "website_name": "Palette.fm",
+    "website": "https://palette.fm",
+    "website_url": "palette.fm",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 497172,
+    "handle": "palette-fm"
+  },
+  {
+    "id": 9085,
+    "website_name": "Gupshup",
+    "website": "https://gupshup.io",
+    "website_url": "gupshup.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 486900,
+    "handle": "gupshup-io"
+  },
+  {
+    "id": 360,
+    "website_name": "mymind",
+    "website": "https://mymind.com",
+    "website_url": "mymind.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 723848,
+    "handle": "mymind"
+  },
+  {
+    "id": 9349,
+    "website_name": "Careerflow",
+    "website": "https://careerflow.ai",
+    "website_url": "careerflow.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 529157,
+    "handle": "careerflow-ai"
+  },
+  {
+    "id": 1098,
+    "website_name": "Aragon",
+    "website": "https://www.aragon.ai",
+    "website_url": "www.aragon.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 489658,
+    "handle": "aragon-ai"
+  },
+  {
+    "id": 336,
+    "website_name": "ZMO.AI",
+    "website": "https://www.zmo.ai",
+    "website_url": "www.zmo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 541178,
+    "handle": "zmo-ai"
+  },
+  {
+    "id": 8929,
+    "website_name": "SmallTalk2Me",
+    "website": "https://smalltalk2.me",
+    "website_url": "smalltalk2.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 482907,
+    "handle": "smalltalk2-me"
+  },
+  {
+    "id": 4676,
+    "website_name": "Deepfakes Web",
+    "website": "https://deepfakesweb.com",
+    "website_url": "deepfakesweb.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 462645,
+    "handle": "deepfakes-web"
+  },
+  {
+    "id": 9155,
+    "website_name": "Loudly",
+    "website": "https://loudly.com",
+    "website_url": "loudly.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 534300,
+    "handle": "loudly-com"
+  },
+  {
+    "id": 155,
+    "website_name": "Tabnine",
+    "website": "https://www.tabnine.com",
+    "website_url": "www.tabnine.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 464164,
+    "handle": "tabnine"
+  },
+  {
+    "id": 8907,
+    "website_name": "SendShort",
+    "website": "https://sendshort.ai",
+    "website_url": "sendshort.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 495704,
+    "handle": "sendshort-ai"
+  },
+  {
+    "id": 8815,
+    "website_name": "Vanta",
+    "website": "https://vanta.com",
+    "website_url": "vanta.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 441667,
+    "handle": "vanta-com"
+  },
+  {
+    "id": 850,
+    "website_name": "NijiJourney",
+    "website": "https://nijijourney.com",
+    "website_url": "nijijourney.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 401884,
+    "handle": "nijijourney"
+  },
+  {
+    "id": 8772,
+    "website_name": "TensorPix",
+    "website": "https://tensorpix.ai",
+    "website_url": "tensorpix.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 423106,
+    "handle": "tensorpix-ai"
+  },
+  {
+    "id": 8866,
+    "website_name": "Quetext",
+    "website": "https://quetext.com",
+    "website_url": "quetext.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 426801,
+    "handle": "quetext-com"
+  },
+  {
+    "id": 8933,
+    "website_name": "Firstup",
+    "website": "https://socialchorus.com",
+    "website_url": "socialchorus.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 612295,
+    "handle": "socialchorus-com"
+  },
+  {
+    "id": 235,
+    "website_name": "Generated Photos",
+    "website": "https://generated.photos",
+    "website_url": "generated.photos",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 475522,
+    "handle": "generated-photos"
+  },
+  {
+    "id": 9061,
+    "website_name": "Protectstar",
+    "website": "https://protectstar.com",
+    "website_url": "protectstar.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 507776,
+    "handle": "protectstar-com"
+  },
+  {
+    "id": 2480,
+    "website_name": "Pixcap - The design tool powered by 3D and AI",
+    "website": "https://pixcap.com",
+    "website_url": "pixcap.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 536510,
+    "handle": "pixcap-3d-illustration-pack"
+  },
+  {
+    "id": 967,
+    "website_name": "Vizcom",
+    "website": "https://www.vizcom.ai",
+    "website_url": "www.vizcom.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 420332,
+    "handle": "vizcom"
+  },
+  {
+    "id": 9271,
+    "website_name": "Career.io",
+    "website": "https://career.io",
+    "website_url": "career.io",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 448707,
+    "handle": "career-io"
+  },
+  {
+    "id": 4582,
+    "website_name": "Kome: AI Summary and Bookmark Extension",
+    "website": "https://kome.ai",
+    "website_url": "kome.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 621528,
+    "handle": "kome-ai"
+  },
+  {
+    "id": 9351,
+    "website_name": "Cartoon Yourself",
+    "website": "https://cartoonize.net",
+    "website_url": "cartoonize.net",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 396517,
+    "handle": "cartoonize-net"
+  },
+  {
+    "id": 9202,
+    "website_name": "Customuse",
+    "website": "https://customuse.com",
+    "website_url": "customuse.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 393428,
+    "handle": "customuse-com"
+  },
+  {
+    "id": 8913,
+    "website_name": "株式会社SHIFT AI",
+    "website": "https://shift-ai.co.jp",
+    "website_url": "shift-ai.co.jp",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 586576,
+    "handle": "shift-ai-co-jp"
+  },
+  {
+    "id": 822,
+    "website_name": "DeepMotion - AI Motion Capture & Body Tracking",
+    "website": "https://www.deepmotion.com",
+    "website_url": "www.deepmotion.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 453134,
+    "handle": "deepmotion"
+  },
+  {
+    "id": 6773,
+    "website_name": "Aime",
+    "website": "https://www.ainvest.com",
+    "website_url": "www.ainvest.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 593283,
+    "handle": "aime"
+  },
+  {
+    "id": 9079,
+    "website_name": "GrabJobs",
+    "website": "https://grabjobs.co",
+    "website_url": "grabjobs.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 346154,
+    "handle": "grabjobs-co"
+  },
+  {
+    "id": 7622,
+    "website_name": "AI Bulk Content Generation",
+    "website": "https://seowriting.ai",
+    "website_url": "seowriting.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 393966,
+    "handle": "seowriting"
+  },
+  {
+    "id": 9253,
+    "website_name": "Flim",
+    "website": "https://flim.ai",
+    "website_url": "flim.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 384836,
+    "handle": "flim-ai"
+  },
+  {
+    "id": 8845,
+    "website_name": "Wirestock",
+    "website": "https://wirestock.io",
+    "website_url": "wirestock.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 383193,
+    "handle": "wirestock-io"
+  },
+  {
+    "id": 8850,
+    "website_name": "Wordkraft",
+    "website": "https://wordkraft.ai",
+    "website_url": "wordkraft.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 509116,
+    "handle": "wordkraft-ai"
+  },
+  {
+    "id": 8902,
+    "website_name": "ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software",
+    "website": "https://scoreapp.com",
+    "website_url": "scoreapp.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 436149,
+    "handle": "scoreapp-com"
+  },
+  {
+    "id": 9350,
+    "website_name": "Carter Chat",
+    "website": "https://www.carter.chat",
+    "website_url": "www.carter.chat",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 365080,
+    "handle": "carter-chat"
+  },
+  {
+    "id": 473,
+    "website_name": "StealthGPT",
+    "website": "https://stealthgpt.ai",
+    "website_url": "stealthgpt.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 372321,
+    "handle": "stealthgpt"
+  },
+  {
+    "id": 1082,
+    "website_name": "https://www.scholarcy.com/",
+    "website": "https://www.scholarcy.com",
+    "website_url": "www.scholarcy.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 376080,
+    "handle": "scholarcy"
+  },
+  {
+    "id": 8938,
+    "website_name": "Spark Mail",
+    "website": "https://sparkmailapp.com",
+    "website_url": "sparkmailapp.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 456254,
+    "handle": "sparkmailapp-com"
+  },
+  {
+    "id": 4638,
+    "website_name": "Klap",
+    "website": "https://klap.app",
+    "website_url": "klap.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 381976,
+    "handle": "klap"
+  },
+  {
+    "id": 1518,
+    "website_name": "HeadshotPro",
+    "website": "https://www.headshotpro.com",
+    "website_url": "www.headshotpro.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 384890,
+    "handle": "headshotpro"
+  },
+  {
+    "id": 8959,
+    "website_name": "Swooped",
+    "website": "https://swooped.co",
+    "website_url": "swooped.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 402424,
+    "handle": "swooped-co"
+  },
+  {
+    "id": 167,
+    "website_name": "Stockimg AI",
+    "website": "https://stockimg.ai",
+    "website_url": "stockimg.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 375204,
+    "handle": "stockimg-ai"
+  },
+  {
+    "id": 9329,
+    "website_name": "BeautyPlus",
+    "website": "https://beautyplus.com",
+    "website_url": "beautyplus.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 421154,
+    "handle": "beautyplus-com"
+  },
+  {
+    "id": 8916,
+    "website_name": "ShowZone",
+    "website": "https://showzone.gg",
+    "website_url": "showzone.gg",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 306630,
+    "handle": "showzone-gg"
+  },
+  {
+    "id": 10,
+    "website_name": "Mubert",
+    "website": "https://mubert.com",
+    "website_url": "mubert.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 360882,
+    "handle": "mubert"
+  },
+  {
+    "id": 36,
+    "website_name": "Browse AI",
+    "website": "https://browse.ai",
+    "website_url": "browse.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 338897,
+    "handle": "browse-ai"
+  },
+  {
+    "id": 9427,
+    "website_name": "Output",
+    "website": "https://output.com",
+    "website_url": "output.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 354329,
+    "handle": "output-com"
+  },
+  {
+    "id": 202,
+    "website_name": "Hypotenuse AI",
+    "website": "https://hypotenuse.ai",
+    "website_url": "hypotenuse.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 336340,
+    "handle": "hypotenuse-ai"
+  },
+  {
+    "id": 1780,
+    "website_name": "PDF.ai",
+    "website": "https://pdf.ai",
+    "website_url": "pdf.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 352111,
+    "handle": "pdf-ai"
+  },
+  {
+    "id": 1400,
+    "website_name": "DreamStudio",
+    "website": "https://dreamstudio.ai",
+    "website_url": "dreamstudio.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 333300,
+    "handle": "dreamstudio"
+  },
+  {
+    "id": 1423,
+    "website_name": "BIGVU Website",
+    "website": "https://bigvu.tv",
+    "website_url": "bigvu.tv",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 352625,
+    "handle": "bigvu"
+  },
+  {
+    "id": 8821,
+    "website_name": "VideoAsk by Typeform Official | Interactive Video Platform",
+    "website": "https://videoask.com",
+    "website_url": "videoask.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 406919,
+    "handle": "videoask-com"
+  },
+  {
+    "id": 9337,
+    "website_name": "Boords",
+    "website": "https://boords.com",
+    "website_url": "boords.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 385993,
+    "handle": "boords-com"
+  },
+  {
+    "id": 1099,
+    "website_name": "Tweet Hunter",
+    "website": "https://tweethunter.io",
+    "website_url": "tweethunter.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 346855,
+    "handle": "tweet-hunter"
+  },
+  {
+    "id": 8826,
+    "website_name": "VoiceDub",
+    "website": "https://voicedub.ai",
+    "website_url": "voicedub.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 335944,
+    "handle": "voicedub-ai"
+  },
+  {
+    "id": 1391,
+    "website_name": "BlackInk",
+    "website": "https://blackink.ai",
+    "website_url": "blackink.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 363562,
+    "handle": "blackink-ai"
+  },
+  {
+    "id": 8782,
+    "website_name": "Tictuk",
+    "website": "https://www.tictuk.com",
+    "website_url": "www.tictuk.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 357480,
+    "handle": "tictuk-com"
+  },
+  {
+    "id": 9038,
+    "website_name": "Pixellot",
+    "website": "https://pixellot.tv",
+    "website_url": "pixellot.tv",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 271799,
+    "handle": "pixellot-tv"
+  },
+  {
+    "id": 8900,
+    "website_name": "Scale Insights™",
+    "website": "https://scaleinsights.com",
+    "website_url": "scaleinsights.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 317942,
+    "handle": "scaleinsights-com"
+  },
+  {
+    "id": 8943,
+    "website_name": "StockStory",
+    "website": "https://stockstory.org",
+    "website_url": "stockstory.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 432573,
+    "handle": "stockstory-org"
+  },
+  {
+    "id": 550,
+    "website_name": "SEO.ai",
+    "website": "https://seo.ai",
+    "website_url": "seo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 405410,
+    "handle": "seo-ai"
+  },
+  {
+    "id": 9206,
+    "website_name": "DealMachine",
+    "website": "https://dealmachine.com",
+    "website_url": "dealmachine.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 290534,
+    "handle": "dealmachine-com"
+  },
+  {
+    "id": 185,
+    "website_name": "Formula Bot - AI Data Analyst",
+    "website": "https://formulabot.com",
+    "website_url": "formulabot.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 325489,
+    "handle": "excel-formula-bot"
+  },
+  {
+    "id": 8842,
+    "website_name": "WeShop",
+    "website": "https://www.weshop.ai",
+    "website_url": "www.weshop.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 309297,
+    "handle": "weshop-ai"
+  },
+  {
+    "id": 1010,
+    "website_name": "NeuronWriter",
+    "website": "https://www.neuronwriter.com",
+    "website_url": "www.neuronwriter.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 274143,
+    "handle": "neuronwriter"
+  },
+  {
+    "id": 8973,
+    "website_name": "Modal",
+    "website": "https://modal.com",
+    "website_url": "modal.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 300731,
+    "handle": "modal-com"
+  },
+  {
+    "id": 8786,
+    "website_name": "Toolsaday",
+    "website": "https://toolsaday.com",
+    "website_url": "toolsaday.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 379829,
+    "handle": "toolsaday-com"
+  },
+  {
+    "id": 951,
+    "website_name": "Typli.Ai - AI Writer & SEO Writing Assistant",
+    "website": "https://typli.ai",
+    "website_url": "typli.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 382287,
+    "handle": "typli"
+  },
+  {
+    "id": 503,
+    "website_name": "Photo AI",
+    "website": "https://photoai.com",
+    "website_url": "photoai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 284801,
+    "handle": "photo-ai"
+  },
+  {
+    "id": 9142,
+    "website_name": "LazyApply",
+    "website": "https://www.lazyapply.com",
+    "website_url": "www.lazyapply.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 319768,
+    "handle": "lazyapply-com"
+  },
+  {
+    "id": 5003,
+    "website_name": "Araby.ai",
+    "website": "https://www.araby.ai",
+    "website_url": "www.araby.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 269647,
+    "handle": "araby-ai"
+  },
+  {
+    "id": 8882,
+    "website_name": "Retouch4me",
+    "website": "https://retouch4.me",
+    "website_url": "retouch4.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 304650,
+    "handle": "retouch4-me"
+  },
+  {
+    "id": 9043,
+    "website_name": "PlagiarismCheck",
+    "website": "https://plagiarismcheck.org",
+    "website_url": "plagiarismcheck.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 293776,
+    "handle": "plagiarismcheck-org"
+  },
+  {
+    "id": 8992,
+    "website_name": "Nexlev - AI-Powered YouTube Niche Finder",
+    "website": "https://nexlev.io",
+    "website_url": "nexlev.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 265132,
+    "handle": "nexlev-io"
+  },
+  {
+    "id": 806,
+    "website_name": "Supernormal",
+    "website": "https://supernormal.com",
+    "website_url": "supernormal.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 388989,
+    "handle": "supernormal"
+  },
+  {
+    "id": 9018,
+    "website_name": "Panda Video",
+    "website": "https://pandavideo.com.br",
+    "website_url": "pandavideo.com.br",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 298990,
+    "handle": "pandavideo-com-br"
+  },
+  {
+    "id": 9447,
+    "website_name": "TrueGether",
+    "website": "https://truegether.com",
+    "website_url": "truegether.com",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 444731,
+    "handle": "truegether-com"
+  },
+  {
+    "id": 5230,
+    "website_name": "Wondercraft AI",
+    "website": "https://wondercraft.ai",
+    "website_url": "wondercraft.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 286968,
+    "handle": "wondercraft-ai"
+  },
+  {
+    "id": 9198,
+    "website_name": "Covers AI",
+    "website": "https://www.covers.ai",
+    "website_url": "www.covers.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 273280,
+    "handle": "covers-ai"
+  },
+  {
+    "id": 6665,
+    "website_name": "TheB.AI",
+    "website": "https://www.theb.ai",
+    "website_url": "www.theb.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 300506,
+    "handle": "theb-ai"
+  },
+  {
+    "id": 9173,
+    "website_name": "Circleboom",
+    "website": "https://circleboom.com",
+    "website_url": "circleboom.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 297090,
+    "handle": "circleboom-com"
+  },
+  {
+    "id": 884,
+    "website_name": "Supermeme.ai",
+    "website": "https://supermeme.ai",
+    "website_url": "supermeme.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 273276,
+    "handle": "supermeme-ai"
+  },
+  {
+    "id": 8928,
+    "website_name": "Slidebean Founder Platform",
+    "website": "https://slidebean.com",
+    "website_url": "slidebean.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 286534,
+    "handle": "slidebean-com"
+  },
+  {
+    "id": 8999,
+    "website_name": "nsfwartgenerator ai",
+    "website": "https://nsfwartgenerator.ai",
+    "website_url": "nsfwartgenerator.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 257441,
+    "handle": "nsfwartgenerator-ai"
+  },
+  {
+    "id": 9297,
+    "website_name": "Aimlabs",
+    "website": "https://aimlabs.com",
+    "website_url": "aimlabs.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 356229,
+    "handle": "aimlabs-com"
+  },
+  {
+    "id": 8934,
+    "website_name": "SoulGen",
+    "website": "https://soulgen.net",
+    "website_url": "soulgen.net",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 287332,
+    "handle": "soulgen-net"
+  },
+  {
+    "id": 9031,
+    "website_name": "PhotoGrid | Collage Maker",
+    "website": "https://photogrid.app",
+    "website_url": "photogrid.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 267000,
+    "handle": "photogrid-app"
+  },
+  {
+    "id": 8894,
+    "website_name": "Rosebud - AI Journal for Personal Growth",
+    "website": "https://rosebud.app",
+    "website_url": "rosebud.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 231544,
+    "handle": "rosebud-app"
+  },
+  {
+    "id": 8781,
+    "website_name": "This Person Does Not Exist - Random Face Generator",
+    "website": "https://this-person-does-not-exist.com",
+    "website_url": "this-person-does-not-exist.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 307483,
+    "handle": "this-person-does-not-exist-com"
+  },
+  {
+    "id": 2945,
+    "website_name": "neural frames",
+    "website": "https://www.neuralframes.com",
+    "website_url": "www.neuralframes.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 259487,
+    "handle": "neural-frames"
+  },
+  {
+    "id": 9165,
+    "website_name": "Magai",
+    "website": "https://magai.co",
+    "website_url": "magai.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 257061,
+    "handle": "magai-co"
+  },
+  {
+    "id": 3555,
+    "website_name": "Trancy for Chrome",
+    "website": "https://www.trancy.org",
+    "website_url": "www.trancy.org",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 313618,
+    "handle": "trancy"
+  },
+  {
+    "id": 674,
+    "website_name": "Shulex VOC",
+    "website": "https://www.voc.ai",
+    "website_url": "www.voc.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 276250,
+    "handle": "vocai"
+  },
+  {
+    "id": 9335,
+    "website_name": "BLOOM | Intimate Audio Stories & Chat",
+    "website": "https://bloomstories.com",
+    "website_url": "bloomstories.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 225797,
+    "handle": "bloomstories-com"
+  },
+  {
+    "id": 1668,
+    "website_name": "folk",
+    "website": "https://www.folk.app",
+    "website_url": "www.folk.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 244693,
+    "handle": "folk-2-0"
+  },
+  {
+    "id": 9401,
+    "website_name": "Free Doc Translator",
+    "website": "https://doctranslator.com",
+    "website_url": "doctranslator.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 228238,
+    "handle": "doctranslator-com"
+  },
+  {
+    "id": 7408,
+    "website_name": "Syllaby.io",
+    "website": "https://syllaby.io",
+    "website_url": "syllaby.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 260846,
+    "handle": "syllaby"
+  },
+  {
+    "id": 9410,
+    "website_name": "Brella",
+    "website": "https://brella.io",
+    "website_url": "brella.io",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 214582,
+    "handle": "brella-io"
+  },
+  {
+    "id": 8808,
+    "website_name": "Upheal",
+    "website": "https://upheal.io",
+    "website_url": "upheal.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 184116,
+    "handle": "upheal-io"
+  },
+  {
+    "id": 691,
+    "website_name": "Pickaxe",
+    "website": "https://www.pickaxeproject.com",
+    "website_url": "www.pickaxeproject.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 239538,
+    "handle": "pickaxe"
+  },
+  {
+    "id": 9243,
+    "website_name": "Friends & Fables - AI RPG Dungeon Master for D&D 5e",
+    "website": "https://fables.gg",
+    "website_url": "fables.gg",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 244597,
+    "handle": "fables-gg"
+  },
+  {
+    "id": 715,
+    "website_name": "Reflect Notes",
+    "website": "https://reflect.app",
+    "website_url": "reflect.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 241038,
+    "handle": "reflect-ai"
+  },
+  {
+    "id": 99,
+    "website_name": "Pebblely AI Product Photography",
+    "website": "https://pebblely.com",
+    "website_url": "pebblely.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 232838,
+    "handle": "pebblely"
+  },
+  {
+    "id": 9358,
+    "website_name": "Charstar",
+    "website": "https://charstar.ai",
+    "website_url": "charstar.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 228312,
+    "handle": "charstar"
+  },
+  {
+    "id": 1709,
+    "website_name": "Dictanote",
+    "website": "https://dictanote.co",
+    "website_url": "dictanote.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 279062,
+    "handle": "dictanote"
+  },
+  {
+    "id": 8788,
+    "website_name": "Tradytics",
+    "website": "https://tradytics.com",
+    "website_url": "tradytics.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 244704,
+    "handle": "tradytics-com"
+  },
+  {
+    "id": 9267,
+    "website_name": "Defined.ai",
+    "website": "https://definedcrowd.com",
+    "website_url": "definedcrowd.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 234567,
+    "handle": "definedcrowd-com"
+  },
+  {
+    "id": 1310,
+    "website_name": "Elai.io - Automated AI Video Generation Platform",
+    "website": "https://elai.io",
+    "website_url": "elai.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 228558,
+    "handle": "elai-io"
+  },
+  {
+    "id": 9304,
+    "website_name": "Alpha3D",
+    "website": "https://alpha3d.io",
+    "website_url": "alpha3d.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 219632,
+    "handle": "alpha3d-io"
+  },
+  {
+    "id": 9041,
+    "website_name": "PizzaGPT - ChatGPT for Italy",
+    "website": "https://pizzagpt.it",
+    "website_url": "pizzagpt.it",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 498269,
+    "handle": "pizzagpt-it"
+  },
+  {
+    "id": 363,
+    "website_name": "Visla",
+    "website": "https://www.visla.us",
+    "website_url": "www.visla.us",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 217733,
+    "handle": "visla"
+  },
+  {
+    "id": 908,
+    "website_name": "summarize.tech",
+    "website": "https://www.summarize.tech",
+    "website_url": "www.summarize.tech",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 205912,
+    "handle": "summarize-tech"
+  },
+  {
+    "id": 3616,
+    "website_name": "Koala",
+    "website": "https://koala.sh",
+    "website_url": "koala.sh",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 211537,
+    "handle": "koalawriter"
+  },
+  {
+    "id": 8854,
+    "website_name": "Writeless",
+    "website": "https://writeless.ai",
+    "website_url": "writeless.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 211849,
+    "handle": "writeless-ai"
+  },
+  {
+    "id": 287,
+    "website_name": "RightBlogger",
+    "website": "https://rightblogger.com",
+    "website_url": "rightblogger.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 195495,
+    "handle": "right-blogger"
+  },
+  {
+    "id": 9419,
+    "website_name": "Salesmate CRM",
+    "website": "https://salesmate.io",
+    "website_url": "salesmate.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 197565,
+    "handle": "salesmate-io"
+  },
+  {
+    "id": 57,
+    "website_name": "ImageColorizer",
+    "website": "https://imagecolorizer.com",
+    "website_url": "imagecolorizer.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 221279,
+    "handle": "imagecolorizer"
+  },
+  {
+    "id": 1517,
+    "website_name": "The Good AI",
+    "website": "https://www.the-good-ai.com",
+    "website_url": "www.the-good-ai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 189418,
+    "handle": "good-ai"
+  },
+  {
+    "id": 7502,
+    "website_name": "Moemate",
+    "website": "https://www.moemate.io",
+    "website_url": "www.moemate.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 266105,
+    "handle": "moemate"
+  },
+  {
+    "id": 8893,
+    "website_name": "RoomGPT",
+    "website": "https://roomgpt.io",
+    "website_url": "roomgpt.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 208559,
+    "handle": "roomgpt-io"
+  },
+  {
+    "id": 9400,
+    "website_name": "Melobytes.com",
+    "website": "https://melobytes.com",
+    "website_url": "melobytes.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 222757,
+    "handle": "melobytes-com"
+  },
+  {
+    "id": 9217,
+    "website_name": "Diib",
+    "website": "https://diib.com",
+    "website_url": "diib.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 218049,
+    "handle": "diib-com"
+  },
+  {
+    "id": 8775,
+    "website_name": "Buy, Sell and Discover Unique Travel",
+    "website": "https://thatch.co",
+    "website_url": "thatch.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 230941,
+    "handle": "thatch-co"
+  },
+  {
+    "id": 9417,
+    "website_name": "Inven",
+    "website": "https://inven.ai",
+    "website_url": "inven.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 248323,
+    "handle": "inven-ai"
+  },
+  {
+    "id": 8886,
+    "website_name": "Reworkd AI",
+    "website": "https://reworkd.ai",
+    "website_url": "reworkd.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 250315,
+    "handle": "reworkd-ai"
+  },
+  {
+    "id": 8920,
+    "website_name": "Simple Analytics",
+    "website": "https://www.simpleanalytics.com",
+    "website_url": "www.simpleanalytics.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 207219,
+    "handle": "simpleanalytics-com"
+  },
+  {
+    "id": 9305,
+    "website_name": "Amplemarket",
+    "website": "https://amplemarket.com",
+    "website_url": "amplemarket.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 185474,
+    "handle": "amplemarket-com"
+  },
+  {
+    "id": 1160,
+    "website_name": "Dust - Smarter Teams with AI",
+    "website": "https://dust.tt",
+    "website_url": "dust.tt",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 181905,
+    "handle": "dust"
+  },
+  {
+    "id": 2953,
+    "website_name": "VoilÃ ",
+    "website": "https://www.getvoila.ai",
+    "website_url": "www.getvoila.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 202740,
+    "handle": "voil-chatgpt-browser-assistant"
+  },
+  {
+    "id": 9404,
+    "website_name": "Bannerbear",
+    "website": "https://bannerbear.com",
+    "website_url": "bannerbear.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 204664,
+    "handle": "bannerbear-com"
+  },
+  {
+    "id": 8892,
+    "website_name": "Romantic AI",
+    "website": "https://romanticai.com",
+    "website_url": "romanticai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 181721,
+    "handle": "romanticai-com"
+  },
+  {
+    "id": 8901,
+    "website_name": "Scenario",
+    "website": "https://scenario.com",
+    "website_url": "scenario.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 187255,
+    "handle": "scenario-com"
+  },
+  {
+    "id": 9292,
+    "website_name": "Aftershoot",
+    "website": "https://aftershoot.com",
+    "website_url": "aftershoot.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 211140,
+    "handle": "aftershoot-com"
+  },
+  {
+    "id": 9171,
+    "website_name": "Checksub",
+    "website": "https://checksub.com",
+    "website_url": "checksub.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 196424,
+    "handle": "checksub-com"
+  },
+  {
+    "id": 9438,
+    "website_name": "Sell The Trend",
+    "website": "https://sellthetrend.com",
+    "website_url": "sellthetrend.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 212922,
+    "handle": "sellthetrend-com"
+  },
+  {
+    "id": 1715,
+    "website_name": "cre8tiveAI",
+    "website": "https://cre8tiveai.com",
+    "website_url": "cre8tiveai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 199761,
+    "handle": "cre8tiveai"
+  },
+  {
+    "id": 389,
+    "website_name": "Castmagic",
+    "website": "https://www.castmagic.io",
+    "website_url": "www.castmagic.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 196890,
+    "handle": "castmagic"
+  },
+  {
+    "id": 8979,
+    "website_name": "JotBot AI",
+    "website": "https://myjotbot.com",
+    "website_url": "myjotbot.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 198236,
+    "handle": "myjotbot-com"
+  },
+  {
+    "id": 192,
+    "website_name": "Frase",
+    "website": "https://www.frase.io",
+    "website_url": "www.frase.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 193043,
+    "handle": "frase"
+  },
+  {
+    "id": 8887,
+    "website_name": "Rize",
+    "website": "https://rize.io",
+    "website_url": "rize.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 206700,
+    "handle": "rize-io"
+  },
+  {
+    "id": 440,
+    "website_name": "RunDiffusion",
+    "website": "https://rundiffusion.com",
+    "website_url": "rundiffusion.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 185129,
+    "handle": "rundiffusion"
+  },
+  {
+    "id": 8949,
+    "website_name": "Studyable - AI Learning Tools & Flash Cards",
+    "website": "https://studyable.app",
+    "website_url": "studyable.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 166597,
+    "handle": "studyable-app"
+  },
+  {
+    "id": 9236,
+    "website_name": "Enso Connect",
+    "website": "https://ensoconnect.com",
+    "website_url": "ensoconnect.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 189873,
+    "handle": "ensoconnect-com"
+  },
+  {
+    "id": 9092,
+    "website_name": "Skip",
+    "website": "https://helloskip.com",
+    "website_url": "helloskip.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 171117,
+    "handle": "helloskip-com"
+  },
+  {
+    "id": 8966,
+    "website_name": "Draft AI",
+    "website": "https://maker.ai",
+    "website_url": "maker.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 157433,
+    "handle": "maker-ai"
+  },
+  {
+    "id": 924,
+    "website_name": "vidyo.ai",
+    "website": "https://vidyo.ai",
+    "website_url": "vidyo.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 162089,
+    "handle": "vidyo-ai"
+  },
+  {
+    "id": 9362,
+    "website_name": "ChatDaddy",
+    "website": "https://chatdaddy.tech",
+    "website_url": "chatdaddy.tech",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 158663,
+    "handle": "chatdaddy-tech"
+  },
+  {
+    "id": 708,
+    "website_name": "Eightify AI ChatGPT",
+    "website": "https://www.eightify.app",
+    "website_url": "www.eightify.app",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 189333,
+    "handle": "eightify"
+  },
+  {
+    "id": 907,
+    "website_name": "PhotoAI",
+    "website": "https://photoai.me",
+    "website_url": "photoai.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 186410,
+    "handle": "photoai"
+  },
+  {
+    "id": 187,
+    "website_name": "InteriorAI",
+    "website": "https://interiorai.com",
+    "website_url": "interiorai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 188429,
+    "handle": "interiorai"
+  },
+  {
+    "id": 4674,
+    "website_name": "Upscalepics",
+    "website": "https://upscalepics.com",
+    "website_url": "upscalepics.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 169109,
+    "handle": "upscalepics"
+  },
+  {
+    "id": 8853,
+    "website_name": "Writefull",
+    "website": "https://writefull.com",
+    "website_url": "writefull.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 183820,
+    "handle": "writefull-com"
+  },
+  {
+    "id": 6162,
+    "website_name": "Chaindesk",
+    "website": "https://www.chaindesk.ai",
+    "website_url": "www.chaindesk.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 178380,
+    "handle": "chaindesk-ai"
+  },
+  {
+    "id": 976,
+    "website_name": "Colossyan Creator",
+    "website": "https://www.colossyan.com",
+    "website_url": "www.colossyan.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 171918,
+    "handle": "colossyan"
+  },
+  {
+    "id": 9176,
+    "website_name": "Clearly Reader",
+    "website": "https://clearlyreader.com",
+    "website_url": "clearlyreader.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 847939,
+    "handle": "clearlyreader-com"
+  },
+  {
+    "id": 1005,
+    "website_name": "Mem",
+    "website": "https://mem.ai",
+    "website_url": "mem.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 166804,
+    "handle": "mem-ai"
+  },
+  {
+    "id": 9289,
+    "website_name": "Adminer",
+    "website": "https://adminer.pro",
+    "website_url": "adminer.pro",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 137171,
+    "handle": "adminer-pro"
+  },
+  {
+    "id": 8766,
+    "website_name": "Tangia",
+    "website": "https://tangia.co",
+    "website_url": "tangia.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 146877,
+    "handle": "tangia-co"
+  },
+  {
+    "id": 3182,
+    "website_name": "Numerous.ai",
+    "website": "https://numerous.ai",
+    "website_url": "numerous.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 176907,
+    "handle": "numerous"
+  },
+  {
+    "id": 5807,
+    "website_name": "MyEssayWriter.ai",
+    "website": "https://www.myessaywriter.ai",
+    "website_url": "www.myessaywriter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 168669,
+    "handle": "myessaywriterai"
+  },
+  {
+    "id": 9422,
+    "website_name": "Prolific",
+    "website": "https://prolific.co",
+    "website_url": "prolific.co",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 243133,
+    "handle": "prolific-co"
+  },
+  {
+    "id": 9067,
+    "website_name": "Clockwise: AI Powered Time Management Calendar",
+    "website": "https://getclockwise.com",
+    "website_url": "getclockwise.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 185570,
+    "handle": "getclockwise-com"
+  },
+  {
+    "id": 9285,
+    "website_name": "accessiBe",
+    "website": "https://accessibe.com",
+    "website_url": "accessibe.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 199098,
+    "handle": "accessibe-com"
+  },
+  {
+    "id": 8997,
+    "website_name": "NoPlagio",
+    "website": "https://noplagio.it",
+    "website_url": "noplagio.it",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 143319,
+    "handle": "noplagio-it"
+  },
+  {
+    "id": 2745,
+    "website_name": "StoryNest.ai",
+    "website": "https://www.storynest.ai",
+    "website_url": "www.storynest.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 142766,
+    "handle": "storynest-ai"
+  },
+  {
+    "id": 9207,
+    "website_name": "DealStream",
+    "website": "https://dealstream.com",
+    "website_url": "dealstream.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 181039,
+    "handle": "dealstream-com"
+  },
+  {
+    "id": 8795,
+    "website_name": "Trip Planner AI",
+    "website": "https://tripplanner.ai",
+    "website_url": "tripplanner.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 170723,
+    "handle": "tripplanner-ai"
+  },
+  {
+    "id": 8812,
+    "website_name": "Origin",
+    "website": "https://useorigin.com",
+    "website_url": "useorigin.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 158625,
+    "handle": "useorigin-com"
+  },
+  {
+    "id": 9360,
+    "website_name": "ChatAI",
+    "website": "https://chatai.com",
+    "website_url": "chatai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 151872,
+    "handle": "chatai-com"
+  },
+  {
+    "id": 9109,
+    "website_name": "IndexBox",
+    "website": "https://indexbox.io",
+    "website_url": "indexbox.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 201946,
+    "handle": "indexbox-io"
+  },
+  {
+    "id": 9159,
+    "website_name": "LunarCrush",
+    "website": "https://lunarcrush.com",
+    "website_url": "lunarcrush.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 153478,
+    "handle": "lunarcrush-com"
+  },
+  {
+    "id": 995,
+    "website_name": "Paraphrase Tool",
+    "website": "https://paraphrasetool.com",
+    "website_url": "paraphrasetool.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 186671,
+    "handle": "paraphraser"
+  },
+  {
+    "id": 1292,
+    "website_name": "Morgen",
+    "website": "https://www.morgen.so",
+    "website_url": "www.morgen.so",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 141527,
+    "handle": "morgen"
+  },
+  {
+    "id": 8816,
+    "website_name": "Vendasta",
+    "website": "https://vendasta.com",
+    "website_url": "vendasta.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 153307,
+    "handle": "vendasta-com"
+  },
+  {
+    "id": 7487,
+    "website_name": "Think Diffusion",
+    "website": "https://www.thinkdiffusion.com",
+    "website_url": "www.thinkdiffusion.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 139852,
+    "handle": "thinkdiffusion"
+  },
+  {
+    "id": 8905,
+    "website_name": "Section",
+    "website": "https://sectionschool.com",
+    "website_url": "sectionschool.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 159454,
+    "handle": "sectionschool-com"
+  },
+  {
+    "id": 3116,
+    "website_name": "SoulGen",
+    "website": "https://www.soulgen.ai",
+    "website_url": "www.soulgen.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 186335,
+    "handle": "soulgen"
+  },
+  {
+    "id": 9204,
+    "website_name": "Danelfin",
+    "website": "https://danelfin.com",
+    "website_url": "danelfin.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 162941,
+    "handle": "danelfin-com"
+  },
+  {
+    "id": 485,
+    "website_name": "Mokker AI",
+    "website": "https://mokker.ai",
+    "website_url": "mokker.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 140540,
+    "handle": "mokker"
+  },
+  {
+    "id": 4037,
+    "website_name": "Dex",
+    "website": "https://getdex.com",
+    "website_url": "getdex.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 129549,
+    "handle": "linkedin-gpt-assistant-by-dex"
+  },
+  {
+    "id": 18,
+    "website_name": "Dream Interpreter AI",
+    "website": "https://dreaminterpreter.ai",
+    "website_url": "dreaminterpreter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 149678,
+    "handle": "dream-interpreter"
+  },
+  {
+    "id": 9280,
+    "website_name": "Kami",
+    "website": "https://kamihome.com",
+    "website_url": "kamihome.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 130150,
+    "handle": "kamihome-com"
+  },
+  {
+    "id": 9414,
+    "website_name": "Moning",
+    "website": "https://moning.co",
+    "website_url": "moning.co",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 143484,
+    "handle": "moning-co"
+  },
+  {
+    "id": 9277,
+    "website_name": "YiIotCloud",
+    "website": "https://yiiotcloud.com",
+    "website_url": "yiiotcloud.com",
+    "payment_platform": [
+      "paypal"
+    ],
+    "month_visited_count": 149070,
+    "handle": "yiiotcloud-com"
+  },
+  {
+    "id": 9016,
+    "website_name": "Page Pilot AI",
+    "website": "https://pagepilot.ai",
+    "website_url": "pagepilot.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 134617,
+    "handle": "pagepilot-ai"
+  },
+  {
+    "id": 9162,
+    "website_name": "LyricStudio",
+    "website": "https://lyricstudio.net",
+    "website_url": "lyricstudio.net",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 130903,
+    "handle": "lyricstudio-net"
+  },
+  {
+    "id": 1276,
+    "website_name": "Publer",
+    "website": "https://publer.io",
+    "website_url": "publer.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 141080,
+    "handle": "publer"
+  },
+  {
+    "id": 9392,
+    "website_name": "ArtSpace.ai",
+    "website": "https://artspace.ai",
+    "website_url": "artspace.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 154989,
+    "handle": "artspace-ai"
+  },
+  {
+    "id": 8937,
+    "website_name": "Spamdrain antispam",
+    "website": "https://spamdrain.com",
+    "website_url": "spamdrain.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 125935,
+    "handle": "spamdrain-com"
+  },
+  {
+    "id": 8864,
+    "website_name": "Zubtitle",
+    "website": "https://zubtitle.com",
+    "website_url": "zubtitle.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 136714,
+    "handle": "zubtitle-com"
+  },
+  {
+    "id": 4671,
+    "website_name": "Stable Diffusion & Dreambooth API",
+    "website": "https://stablediffusionapi.com",
+    "website_url": "stablediffusionapi.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 127561,
+    "handle": "stablediffusion-api"
+  },
+  {
+    "id": 8940,
+    "website_name": "Splitter.ai",
+    "website": "https://splitter.ai",
+    "website_url": "splitter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 136602,
+    "handle": "splitter-ai"
+  },
+  {
+    "id": 4618,
+    "website_name": "Archive",
+    "website": "https://archive.com",
+    "website_url": "archive.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 147393,
+    "handle": "archive-com"
+  },
+  {
+    "id": 8969,
+    "website_name": "MaxAI.me",
+    "website": "https://maxai.me",
+    "website_url": "maxai.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 455752,
+    "handle": "maxai-me"
+  },
+  {
+    "id": 1564,
+    "website_name": "https://www.netusai.com/",
+    "website": "https://netus.ai",
+    "website_url": "netus.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 119966,
+    "handle": "netus-ai"
+  },
+  {
+    "id": 9389,
+    "website_name": "ChordChord",
+    "website": "https://chordchord.com",
+    "website_url": "chordchord.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 165960,
+    "handle": "chordchord-com"
+  },
+  {
+    "id": 9377,
+    "website_name": "Plerdy",
+    "website": "https://plerdy.com",
+    "website_url": "plerdy.com",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 139757,
+    "handle": "plerdy-com"
+  },
+  {
+    "id": 3467,
+    "website_name": "Circleback",
+    "website": "https://circleback.ai",
+    "website_url": "circleback.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 119092,
+    "handle": "circleback"
+  },
+  {
+    "id": 9250,
+    "website_name": "Firework",
+    "website": "https://firework.com",
+    "website_url": "firework.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 112007,
+    "handle": "firework-com"
+  },
+  {
+    "id": 9178,
+    "website_name": "Clinicminds",
+    "website": "https://clinicminds.com",
+    "website_url": "clinicminds.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 146197,
+    "handle": "clinicminds-com"
+  },
+  {
+    "id": 9370,
+    "website_name": "InstaText",
+    "website": "https://instatext.io",
+    "website_url": "instatext.io",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 133761,
+    "handle": "instatext-io"
+  },
+  {
+    "id": 3883,
+    "website_name": "PerfectEssayWriter.ai",
+    "website": "https://www.perfectessaywriter.ai",
+    "website_url": "www.perfectessaywriter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 139529,
+    "handle": "perfectessaywriterai"
+  },
+  {
+    "id": 23,
+    "website_name": "PFP.AI",
+    "website": "https://www.profilepicture.ai",
+    "website_url": "www.profilepicture.ai",
+    "payment_platform": [
+      "stripe",
+      "paypal"
+    ],
+    "month_visited_count": 117894,
+    "handle": "profile-picture-ai"
+  },
+  {
+    "id": 9188,
+    "website_name": "Controlla: interactive, remixable songs",
+    "website": "https://controlla.xyz",
+    "website_url": "controlla.xyz",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 114584,
+    "handle": "controlla-xyz"
+  },
+  {
+    "id": 8115,
+    "website_name": "Venturekit",
+    "website": "https://venturekit.ai",
+    "website_url": "venturekit.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 108597,
+    "handle": "venturekit"
+  },
+  {
+    "id": 197,
+    "website_name": "Learn Anything",
+    "website": "https://www.tutorai.me",
+    "website_url": "www.tutorai.me",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 114054,
+    "handle": "tutorai"
+  },
+  {
+    "id": 8987,
+    "website_name": "Neighborbrite",
+    "website": "https://neighborbrite.com",
+    "website_url": "neighborbrite.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 105655,
+    "handle": "neighborbrite-com"
+  },
+  {
+    "id": 2721,
+    "website_name": "Texts",
+    "website": "https://texts.com",
+    "website_url": "texts.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 117407,
+    "handle": "texts-com"
+  },
+  {
+    "id": 849,
+    "website_name": "Kaedim",
+    "website": "https://www.kaedim3d.com",
+    "website_url": "www.kaedim3d.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 114345,
+    "handle": "kaedim"
+  },
+  {
+    "id": 4346,
+    "website_name": "ReRoom AI - Photorealistic Renders for Interior Design",
+    "website": "https://reroom.ai",
+    "website_url": "reroom.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 112666,
+    "handle": "reroom"
+  },
+  {
+    "id": 1366,
+    "website_name": "Kive",
+    "website": "https://kive.ai",
+    "website_url": "kive.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 113694,
+    "handle": "kive"
+  },
+  {
+    "id": 9210,
+    "website_name": "Deep English",
+    "website": "https://deepenglish.com",
+    "website_url": "deepenglish.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 129888,
+    "handle": "deepenglish-com"
+  },
+  {
+    "id": 9114,
+    "website_name": "Invoxia",
+    "website": "https://invoxia.com",
+    "website_url": "invoxia.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 114857,
+    "handle": "invoxia-com"
+  },
+  {
+    "id": 9249,
+    "website_name": "FinalScout",
+    "website": "https://finalscout.com",
+    "website_url": "finalscout.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 108874,
+    "handle": "finalscout-com"
+  },
+  {
+    "id": 8984,
+    "website_name": "MyVeloFit",
+    "website": "https://myvelofit.com",
+    "website_url": "myvelofit.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 120458,
+    "handle": "myvelofit-com"
+  },
+  {
+    "id": 44,
+    "website_name": "AirOps",
+    "website": "https://www.airops.com",
+    "website_url": "www.airops.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 119014,
+    "handle": "ai-data-sidekick"
+  },
+  {
+    "id": 8945,
+    "website_name": "StoryLab.ai",
+    "website": "https://storylab.ai",
+    "website_url": "storylab.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 113363,
+    "handle": "storylab-ai"
+  },
+  {
+    "id": 42,
+    "website_name": "Playground AI",
+    "website": "https://playgroundai.com",
+    "website_url": "playgroundai.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 116085,
+    "handle": "playground-ai"
+  },
+  {
+    "id": 8990,
+    "website_name": "NewArc.ai",
+    "website": "https://newarc.ai",
+    "website_url": "newarc.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 114170,
+    "handle": "newarc-ai"
+  },
+  {
+    "id": 504,
+    "website_name": "Real Fake",
+    "website": "https://www.realfakephotos.com",
+    "website_url": "www.realfakephotos.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 106717,
+    "handle": "realfake"
+  },
+  {
+    "id": 5989,
+    "website_name": "Taja AI",
+    "website": "https://taja.ai",
+    "website_url": "taja.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 107239,
+    "handle": "taja-ai"
+  },
+  {
+    "id": 9225,
+    "website_name": "Dreamwave",
+    "website": "https://dreamwave.ai",
+    "website_url": "dreamwave.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 119115,
+    "handle": "dreamwave-ai"
+  },
+  {
+    "id": 8972,
+    "website_name": "Mindsera",
+    "website": "https://mindsera.com",
+    "website_url": "mindsera.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 106398,
+    "handle": "mindsera-com"
+  },
+  {
+    "id": 8980,
+    "website_name": "MyPerfectWords",
+    "website": "https://myperfectwords.com",
+    "website_url": "myperfectwords.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 137507,
+    "handle": "myperfectwords-com"
+  },
+  {
+    "id": 387,
+    "website_name": "AI-Lawyer",
+    "website": "https://ailawyer.pro",
+    "website_url": "ailawyer.pro",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 104597,
+    "handle": "ai-lawyer"
+  },
+  {
+    "id": 9227,
+    "website_name": "Drippi.ai",
+    "website": "https://drippi.ai",
+    "website_url": "drippi.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 101706,
+    "handle": "drippi-ai"
+  },
+  {
+    "id": 8896,
+    "website_name": "saasguru",
+    "website": "https://saasguru.co",
+    "website_url": "saasguru.co",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 120373,
+    "handle": "saasguru-co"
+  },
+  {
+    "id": 1209,
+    "website_name": "Scalenut",
+    "website": "https://www.scalenut.com",
+    "website_url": "www.scalenut.com",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 117684,
+    "handle": "scalenut"
+  },
+  {
+    "id": 4066,
+    "website_name": "SiteGPT",
+    "website": "https://sitegpt.ai",
+    "website_url": "sitegpt.ai",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 110163,
+    "handle": "sitegpt"
+  },
+  {
+    "id": 9380,
+    "website_name": "Uneed",
+    "website": "https://uneed.best",
+    "website_url": "uneed.best",
+    "payment_platform": [
+      "paddle"
+    ],
+    "month_visited_count": 109600,
+    "handle": "uneed-best"
+  },
+  {
+    "id": 233,
+    "website_name": "ChatGPT Writer",
+    "website": "https://chatgptwriter.ai",
+    "website_url": "chatgptwriter.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 133617,
+    "handle": "chatgpt-writer"
+  },
+  {
+    "id": 6705,
+    "website_name": "Clearscope",
+    "website": "https://www.clearscope.io",
+    "website_url": "www.clearscope.io",
+    "payment_platform": [
+      "stripe",
+      "paddle"
+    ],
+    "month_visited_count": 113946,
+    "handle": "content-optimizor"
+  },
+  {
+    "id": 8857,
+    "website_name": "Teacher AI",
+    "website": "https://yourteacher.ai",
+    "website_url": "yourteacher.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 102258,
+    "handle": "yourteacher-ai"
+  },
+  {
+    "id": 9025,
+    "website_name": "Pepper Content",
+    "website": "https://peppercontent.io",
+    "website_url": "peppercontent.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 100562,
+    "handle": "peppercontent-io"
+  },
+  {
+    "id": 9012,
+    "website_name": "オーダーメイドAI",
+    "website": "https://ordermaid.ai",
+    "website_url": "ordermaid.ai",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 105183,
+    "handle": "ordermaid-ai"
+  },
+  {
+    "id": 9141,
+    "website_name": "Latitude",
+    "website": "https://latitude.io",
+    "website_url": "latitude.io",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 106927,
+    "handle": "latitude-io"
+  },
+  {
+    "id": 9097,
+    "website_name": "Hotel in Cloud",
+    "website": "https://hotelincloud.com",
+    "website_url": "hotelincloud.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 106114,
+    "handle": "hotelincloud-com"
+  },
+  {
+    "id": 222,
+    "website_name": "xpressioncamera",
+    "website": "https://xpressioncamera.com",
+    "website_url": "xpressioncamera.com",
+    "payment_platform": [
+      "stripe"
+    ],
+    "month_visited_count": 209563,
+    "handle": "xpression-camera"
+  }
+]

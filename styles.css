@@ -1,0 +1,256 @@
+:root {
+    --primary-color: #1a73e8;
+    --hover-color: #1557b0;
+    --background-color: #f8f9fa;
+    --border-color: #ebedef;
+    --text-color: #202124;
+    --secondary-text: #5f6368;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: var(--text-color);
+    -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+/* 统计卡片样式 */
+.stats-card {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.stats-icon {
+    width: 64px;
+    height: 64px;
+    background: white;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FF9500;
+    margin: 0 auto 16px;
+    box-shadow: 0 4px 24px rgba(255, 149, 0, 0.12);
+}
+
+.stats-icon svg {
+    width: 32px;
+    height: 32px;
+}
+
+.stats-content h2 {
+    margin: 0 0 8px 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.stats-content p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--secondary-text);
+    line-height: 1.5;
+}
+
+/* 表格样式 */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 20px;
+    background: white;
+    border: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+thead th {
+    background-color: #f8f9fa;
+    color: var(--secondary-text);
+    padding: 16px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 13px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+thead th:first-child {
+    width: 80px;
+    text-align: center;
+}
+
+tbody td {
+    padding: 16px;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 14px;
+    color: var(--text-color);
+    vertical-align: middle;
+}
+
+tbody td:first-child {
+    text-align: center;
+}
+
+tbody tr:hover {
+    background-color: var(--background-color);
+}
+
+/* 排行榜样式 */
+.rank {
+    min-width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    font-size: 13px;
+    color: var(--text-color);
+    background-color: #f5f5f5;
+    padding: 0 8px;
+}
+
+.rank-1, .rank-2, .rank-3 {
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
+    margin: 0 auto;
+}
+
+.rank-1 {
+    background: #FFB800;
+}
+
+.rank-2 {
+    background: #C0C0C0;
+}
+
+.rank-3 {
+    background: #CD7F32;
+}
+
+/* 链接样式 */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* 工具名称加粗 */
+.tool-name {
+    font-weight: 500;
+}
+
+/* 支付平台样式 */
+thead th:nth-child(4) {
+    font-size: 14px;
+}
+
+td:nth-child(4) {
+    color: var(--secondary-text);
+    font-size: 16px;
+}
+
+/* 月流量样式 */
+thead th:nth-child(5) {
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+td:last-child {
+    font-weight: 500;
+    /* color: var(--primary-color); */
+}
+
+/* 分页样式 */
+#pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 24px;
+}
+
+#pagination button {
+    min-width: 32px;
+    height: 32px;
+    padding: 0 12px;
+    border: 1px solid var(--border-color);
+    background-color: white;
+    color: var(--text-color);
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pagination button.active {
+    background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+#pagination button:hover:not(:disabled):not(.active) {
+    background-color: var(--background-color);
+}
+
+#pagination button:disabled {
+    color: var(--secondary-text);
+    cursor: not-allowed;
+}
+
+#pagination .prev-next {
+    color: var(--text-color);
+    padding: 0 16px;
+}
+
+#pagination .ellipsis {
+    color: var(--secondary-text);
+    padding: 0 4px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .container {
+        padding: 16px;
+    }
+    
+    .stats-card {
+        margin-bottom: 24px;
+    }
+    
+    .stats-icon {
+        width: 56px;
+        height: 56px;
+    }
+    
+    .stats-content h2 {
+        font-size: 20px;
+    }
+    
+    thead th, tbody td {
+        padding: 12px;
+    }
+    
+    #pagination button {
+        min-width: 28px;
+        height: 28px;
+    }
+} 
